@@ -1,0 +1,182 @@
+{
+    "schedule": [
+        {
+            "date": "2017-10-09",
+            "dateReadable": "October 9",
+            "timeslots": [
+                {
+                    "endTime": "10:20",
+                    "sessions": [ [ 900 ] ],
+                    "startTime": "10:00"
+                },
+                {
+                    "endTime": "11:20",
+                    "sessions": [ [ 901 ], [ 801 ], [ 101 ], [ 102 ], [ 103 ], [ 104 ], [ 106 ] ],
+                    "startTime": "10:40"
+                }
+            ],
+            "tracks": [
+                {
+                    "title": "国際交流会議場"
+                },
+                {
+                    "title": "メディアホール"
+                },
+                {
+                    "title": "会議室1"
+                },
+                {
+                    "title": "会議室2"
+                },
+                {
+                    "title": "会議室3"
+                },
+                {
+                    "title": "会議室4+5"
+                },
+                {
+                    "title": "ホワイエ"
+                }
+            ]
+        }
+    ],
+    "sessions": {
+        "900": {
+            "complexity": "Beginner",
+            "description": "お祭りが幕を開ける",
+            "id": 900,
+            "language": "Japanese",
+            "presentation": "",
+            "speakers": [
+                301
+            ],
+            "tags": [
+                "Community"
+            ],
+            "title": "オープニング"
+        },
+        "901": {
+            "complexity": "Beginner",
+            "description": "セッション概要",
+            "id": 901,
+            "language": "Japanese",
+            "speakers": [
+                301
+            ],
+            "tags": [
+                "Android"
+            ],
+            "title": "Android"
+        },
+        "801": {
+            "complexity": "Intermediate",
+            "description": "セッション概要",
+            "id": 801,
+            "language": "Japanese",
+            "presentation": "",
+            "speakers": [
+                301
+            ],
+            "tags": [
+                "Girls"
+            ],
+            "title": "GTUG Girls"
+        },
+        "101": {
+            "complexity": "Beginner",
+            "description": "セッション概要",
+            "id": 101,
+            "language": "Japanese",
+            "presentation": "",
+            "speakers": [
+                301
+            ],
+            "tags": [
+                "Go"
+            ],
+            "title": "Go"
+        },
+        "102": {
+            "complexity": "Intermediate",
+            "description": "クラウドの生い立ちや、私はなぜクラウドを求めたのか？そして、クラウドを使う時にどのようなアーキテクチャにすればよいのかについて。",
+            "id": 102,
+            "language": "Japanese",
+            "presentation": "",
+            "speakers": [
+                301
+            ],
+            "tags": [
+                "Cloud"
+            ],
+            "title": "クラウドってなんだろ？クラウドを活かすアプリケーションの設計とは？"
+        },
+        "103": {
+            "complexity": "Beginner",
+            "description": "Fuelio. Success story (I'll write more info later)",
+            "id": 103,
+            "language": "Japanese",
+            "presentation": "",
+            "speakers": [
+                301
+            ],
+            "tags": [
+                "TensorFlow","機械学習"
+            ],
+            "title": "TensorFlowのキホンのキホン"
+        },
+        "104": {
+            "complexity": "Beginner",
+            "description": "ハンズオン",
+            "id": 104,
+            "language": "Japanese",
+            "speakers": [
+                301
+            ],
+            "tags": [
+                "ハンズオン"
+            ],
+            "title": "ハンズオン"
+        },
+        "106": {
+            "complexity": "Intermediate",
+            "description": "アンカンファレンス",
+            "id": 106,
+            "language": "Japanese",
+            "presentation": "",
+            "speakers": [
+                301
+            ],
+            "tags": [
+                "アンカンファレンス"
+            ],
+            "title": "アンカンファレンス"
+        }
+    },
+    "speakers" : [ null, {
+        "bio" : "sinmetal is GCPUG Tokyo Organizer",
+        "company" : "株式会社トップゲート",
+        "companyLogo" : "",
+        "country" : "Japan",
+        "featured" : true,
+        "id" : 301,
+        "name" : "sinmetal",
+        "photoUrl" : "https://storage.googleapis.com/sinmetal-slide.appspot.com/sinmetal.jpg",
+        "shortBio" : "sinmetal is GCPUG Tokyo Organizer",
+        "socials" : [ {
+          "icon" : "linkedin",
+          "link" : "https://www.linkedin.com/in/shingo-ishimura-2406ba116/",
+          "name" : "LinkedIn"
+        }, {
+          "icon" : "twitter",
+          "link" : "https://twitter.com/sinmetal/",
+          "name" : "Twitter"
+        }, {
+          "icon" : "github",
+          "link" : "https://github.com/sinmetal/",
+          "name" : "GitHub"
+        } ],
+        "tags" : [ "Cloud"],
+        "title" : "GCPUG Tokyo Organizer"
+      }
+    ]
+}
