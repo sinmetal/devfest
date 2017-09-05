@@ -5,6 +5,14 @@
   "hosting": {
     "public": "./build",
     "cleanUrls": true,
+    "redirects": [
+      {
+        "source": "/",
+        "destination" : "/2017",
+        "type" : 301
+      }
+
+    ],
     "rewrites": [
       {
         "source": "**/*",

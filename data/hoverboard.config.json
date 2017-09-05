@@ -41,23 +41,23 @@
   "navigation": [
     {
       "route": "home",
-      "permalink": "/"
+      "permalink": "/2017"
     },
     {
       "route": "blog",
-      "permalink": "/blog/"
+      "permalink": "/2017/blog/"
     },
     {
       "route": "schedule",
-      "permalink": "/schedule/"
+      "permalink": "/2017/schedule/"
     },
     {
       "route": "speakers",
-      "permalink": "/speakers/"
+      "permalink": "/2017/speakers/"
     },
     {
       "route": "team",
-      "permalink": "/team/"
+      "permalink": "/2017/team/"
     }
   ],
   "social": [
