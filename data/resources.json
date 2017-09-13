@@ -1,7 +1,7 @@
 {
   "title": "GDG DevFest Tokyo 2017",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "description": "東京でGoogleの最大のテクノロジー会議がGDGコミュニティによって丁寧に作られました！ 日本の専門家のAndroid、Golang、Web、Cloudに関するすべて",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, golang, tango, gcp, developers, web, cloud, androiddev",
   "dates": "October 9, 2017",
   "locationAddressShort": "Tokyo, Japan",
   "motto": "Be a GDG. Be a Hero!",
@@ -12,7 +12,7 @@
   "subscribe": "Subscribe",
   "yourEmail": "Your email",
   "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
+  "contactUs": "",
   "ticketsTitle": "Tickets",
   "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
   "close": "Close",
@@ -28,14 +28,14 @@
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationTitle": "国際交流館",
+  "locationDescription": "国際交流館",
+  "locationAddress": "東京都江東区青海2-2-1",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "aboutOrganizers": "DevFest Tokyo のオーガナイザーは、東京で活躍している 14 のコミュニティです。",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "aboutGdg": "Google Developer Group (GDG) は、主に Google のテクノロジーに興味のある人たちで情報を共有しあうコミュニティです。",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -68,28 +68,13 @@
           "newTab": false
         },
         {
-          "text": "Code of Conduct",
-          "url": "/cod/",
-          "newTab": false
-        },
-        {
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "GDG DevFest Tokyo 2016",
+          "url": "https://gdg-tokyo.connpass.com/event/38927/",
           "newTab": true
         }
       ]
@@ -98,13 +83,8 @@
       "title": "For Partners",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "text": "株式会社ソウゾウ",
+          "url": "https://www.souzoh.com/jp/",
           "newTab": true
         }
       ]
@@ -113,20 +93,20 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "",
+        "url": ""
       }
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "東京では、毎月数え切れないほどの勉強会が開催されていますが、イベントが重複したり会場を見つけるのが大変だったり、アクティブなコミュニティが多いゆえの悩みがあったりします。多くのデベロッパーがハッピーに情報を共有していくにはどうしたらよいのか？そして、新しく勉強会に来たいと思っている人や他のプロダクトについて勉強したいと思っている人へ提供できるものは何か？そんなことを考え、東京の14のコミュニティが結集し、このDevFestのオーガナイザーは成り立っています。",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 900,
       "caption": "Attendees"
     },
     {
-      "counter": 2,
+      "counter": 1,
       "caption": "Days"
     },
     {
@@ -134,12 +114,12 @@
       "caption": "Sessions"
     },
     {
-      "counter": 3,
+      "counter": 7,
       "caption": "Tracks"
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "GDG DevFest 2016",
+    "videoId": ""
   }
 }
