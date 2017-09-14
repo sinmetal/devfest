@@ -1287,8 +1287,10 @@
     "tags" : [ "Android", "Firebase", "Security" ],
     "title" : "CEO"
   } ],
-  "team" : [ {
-    "members" : [ {
+  "team" : [
+    {
+    "members" : [
+      {
       "name" : "Oleh Zasadnyy",
       "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
       "socials" : [ {
@@ -1418,7 +1420,8 @@
       "title" : "Social and media"
     } ],
     "title" : "Core Team"
-  }, {
+  },
+    {
     "members" : [ {
       "name" : "Ihor Dvoretskyi",
       "photoUrl" : "/images/people/ihor_dvoretskyi.jpg",
@@ -1449,7 +1452,8 @@
         "name" : "Website"
       } ],
       "title" : "Android Stream"
-    } ],
+    }
+    ],
     "title" : "Program Committee"
   } ],
   "tickets" : {
