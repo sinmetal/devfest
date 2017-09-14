@@ -1,4 +1,14 @@
 {
+    "partners" : [ {
+        "logos" : [ {
+          "logoUrl" : "../images/logos/google_developers_horizontal.png",
+          "name" : "Google Developers",
+          "url" : "https://developers.google.com/",
+          "width" : 170
+        } ],
+        "title" : "Template Creator"
+      }
+    ],
     "schedule": [
         {
             "date": "2017-10-09",
