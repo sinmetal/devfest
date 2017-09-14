@@ -32,7 +32,7 @@
   "locationAddress": "東京都江東区青海2-2-1",
   "organizerTitle": "Organizer",
   "aboutOrganizers": "DevFest Tokyo のオーガナイザーは、東京で活躍している 14 のコミュニティです。",
-  "openTeamPage": "Open team page",
+  "openTeamPage": "コミュニティページを開く",
   "whatIsGdg": "What is GDG?",
   "aboutGdg": "Google Developer Group (GDG) は、主に Google のテクノロジーに興味のある人たちで情報を共有しあうコミュニティです。",
   "readMore": "Read more",
@@ -62,8 +62,8 @@
       "title": "For visitors",
       "links": [
         {
-          "text": "Team",
-          "url": "/team/",
+          "text": "コミュニティ",
+          "url": "/team˙/",
           "newTab": false
         },
         {
@@ -97,7 +97,7 @@
       }
     ]
   },
-  "teamPageTitle": "Team",
+  "teamPageTitle": "コミュニティ",
   "teamPageText": "東京では、毎月数え切れないほどの勉強会が開催されていますが、イベントが重複したり会場を見つけるのが大変だったり、アクティブなコミュニティが多いゆえの悩みがあったりします。多くのデベロッパーがハッピーに情報を共有していくにはどうしたらよいのか？そして、新しく勉強会に来たいと思っている人や他のプロダクトについて勉強したいと思っている人へ提供できるものは何か？そんなことを考え、東京の14のコミュニティが結集し、このDevFestのオーガナイザーは成り立っています。",
   "statistics": [
     {

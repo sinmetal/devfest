@@ -792,5 +792,27 @@
             ],
             "featured": false
         }
+    ],
+    "team": [
+      {
+        "members": [
+          {
+            "name": "GCPUG",
+            "photoUrl": "https://gcpug.jp/images/logo_box.png",
+            "socials": [
+              {
+                "icon": "website",
+                "link": "http://gcpug.jp/",
+                "name": "Web Site"
+              }
+            ],
+            "title": " "
+          },
+          {
+            "name": "日本Androidの会"
+          }
+        ],
+        "title": "参加コミュニティ"
+      }
     ]
 }
