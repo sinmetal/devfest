@@ -244,7 +244,7 @@
             "photoUrl": "",
             "bio": "",
             "shortBio": "",
-            "country": "日本",
+            "country": "Japan",
             "socials": [
                 {
                     "icon": "twitter",
@@ -295,7 +295,7 @@
             "photoUrl": "https://lh3.google.com/u/0/d/0B91gIqF8Dmb5R05SUUUxUWwwa0U=w2538-h1406-iv1",
             "bio": "メルカリ／ソウゾウ所属。 サーバサイドエンジニアとして日々Goを書いている。 Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。 大学時代にGoに出会い、それ以来のめり込む。 社内外で自ら勉強会を開催し、Goの普及に取り組んでいる。 マスコットのGopherの絵を描くのも好き。",
             "shortBio": "Goエンジニア\u0026Gopherアーティスト",
-            "country": "日本",
+            "country": "Japan",
             "socials": [
                 {
                     "icon": "twitter",
@@ -308,7 +308,7 @@
                     "name": "GitHub"
                 }
             ],
-            "featured": true
+            "featured": false
         },
         {
             "id": 6,
@@ -324,7 +324,7 @@
             "photoUrl": "https://ja.gravatar.com/userimage/16715537/b01f360e27cb6c1f87e321923ec0baff.jpg?size=200",
             "bio": "仕事と趣味で機械学習やっています。",
             "shortBio": "",
-            "country": "日本",
+            "country": "Japan",
             "socials": [
                 {
                     "icon": "twitter",
@@ -342,6 +342,22 @@
                     "name": "GitHub"
                 }
             ],
+            "featured": false
+        },
+        {
+            "id": 7,
+            "name": "GTUGGirls",
+            "company": "",
+            "companyLogoUrl": "",
+            "title": "",
+            "tags": [
+                ""
+            ],
+            "photoUrl": "",
+            "bio": "",
+            "shortBio": "",
+            "country": "",
+            "socials": null,
             "featured": false
         },
         {
@@ -385,9 +401,11 @@
             "companyLogoUrl": "",
             "title": "スマホアプリクリエイター",
             "tags": [
-                "Woman"
+                "droid girls",
+                " GTUG Girls",
+                " Android"
             ],
-            "photoUrl": "http://www.uchinokomoratte.com/image/nagaoyuriko.jpg",
+            "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/nagaoyuriko.jpg",
             "bio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。テーマパークダンサーを目指すも10年連続オーディションに落選、女優を目指しCM・映画に出演するも鳴かず飛ばずで三十路を迎える。崖っぷちに立たされ、人手不足のIT業界に参戦。一路エンジニアを目指して奮闘、ボロボロになりながら今に至る。",
             "shortBio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。",
             "country": "Japan",
@@ -502,7 +520,7 @@
                     "name": "GitHub"
                 }
             ],
-            "featured": true
+            "featured": false
         },
         {
             "id": 12,
@@ -529,7 +547,231 @@
                     "name": "GitHub"
                 }
             ],
-            "featured": true
+            "featured": false
+        },
+        {
+            "id": 13,
+            "name": "pospome",
+            "company": "DeNA",
+            "companyLogoUrl": "",
+            "title": "サーバサイドエンジニア",
+            "tags": [
+                "Go",
+                " GCP",
+                " DDD"
+            ],
+            "photoUrl": "https://en.gravatar.com/userimage/62504232/94e9971f458e6e58770f92a9bcfe718b.png?size=200",
+            "bio": "",
+            "shortBio": "",
+            "country": "",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/pospome",
+                    "name": "Twitter"
+                }
+            ],
+            "featured": false
+        },
+        {
+            "id": 14,
+            "name": "なかむら　さとる",
+            "company": "LDI co.,ltd",
+            "companyLogoUrl": "",
+            "title": "マネージャー",
+            "tags": [
+                "bigquery",
+                "GoogleAnalytics",
+                "Cloud"
+            ],
+            "photoUrl": "",
+            "bio": "",
+            "shortBio": "",
+            "country": "Japan",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/satoluxx",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/satoru.mag",
+                    "name": "Facebook"
+                }
+            ],
+            "featured": false
+        },
+        {
+            "id": 15,
+            "name": "Keiji ARIYAMA",
+            "company": "有限会社シーリス",
+            "companyLogoUrl": "",
+            "title": "ソフトウェアデベロッパー",
+            "tags": [
+                "Android",
+                " TensorFlow",
+                " Object Detection"
+            ],
+            "photoUrl": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/p240x240/12321433_10209144884448810_6293562996622810960_n.jpg?oh=164b9eefa12cbe5fdbae279ea8211ce2\u0026oe=5A133B09",
+            "bio": "最近は機械学習（TensorFlow+Android）で遊んだり仕事したり。",
+            "shortBio": "最近は機械学習（TensorFlow+Android）で遊んだり仕事したり。",
+            "country": "Osaka Japan",
+            "socials": [
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/keiji.ariyama",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/keijiariyama/",
+                    "name": "LinkedIn"
+                },
+                {
+                    "icon": "gplus",
+                    "link": "https://plus.google.com/+keiji_ariyama",
+                    "name": "Google"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/keiji",
+                    "name": "GitHub"
+                }
+            ],
+            "featured": false
+        },
+        {
+            "id": 16,
+            "name": "金子 慎太郎 (Shintaro Kaneko)",
+            "company": "株式会社エウレカ",
+            "companyLogoUrl": "https://eure.box.com/s/7nbrumua137r03icx6q4rrpxfhsqjl17",
+            "title": "CTO",
+            "tags": [
+                "Go",
+                "Golang"
+            ],
+            "photoUrl": "https://eure.box.com/s/7taw3xlkhy7ldwzr3xx5a9y36sfkp4c3",
+            "bio": "2010年、東京理科大学理学部を卒業後、組込系企業に入社し品質保証に従事。2011年、カナダ留学。帰国後、東京理科大学の研究室OBとして最適化理論の研究に携わる。2012年、株式会社エウレカに入社。「Pairs」および「Couples」の立ち上げメンバーとして開発に参画。2016年10月、執行役員CTOに就任。",
+            "shortBio": "",
+            "country": "Japan",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/kaneshin0120",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/shintaro.kaneko",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/kaneshin",
+                    "name": "GitHub"
+                }
+            ],
+            "featured": false
+        },
+        {
+            "id": 17,
+            "name": "阿佐志保",
+            "company": "TIS株式会社",
+            "companyLogoUrl": "https://www.tis.co.jp/common/images/logo_tis.png",
+            "title": "主査",
+            "tags": [
+                "Google Cloud Platform"
+            ],
+            "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/asa.jpg",
+            "bio": "金融系シンクタンクなどで銀行/証券向けインフラエンジニア、製造業向けインフラエンジニアとして従事。\n都市銀行情報系基盤システム構築やシステム統廃合、証券会社向けバックオフィスシステムのミドルウエア開発や統合認証基盤構築、大規模石油/LNGプラント建設を行うエンジニアリング企業のシステム基盤構築などを経験。\n\n出産で離職後、在職中のエンタープライズシステムでのインフラ構築経験を活かし、Linuxやクラウドなどを独学で勉強し、技術書を執筆。\n約8年間の専業主婦を経て、2016年5月より、TIS株式会社の調査研究部門に所属し、広報・人材採用を担当。\n\n■著書情報\n『プログラマのためのGoogle Cloud Platform入門』\n『プログラマのためのDocker教科書 インフラの基礎知識＆コードによる環境構築の自動化』\n『Amazon Web Servicesではじめる新米プログラマのためのクラウド超入門』\n『Windows8 開発ポケットリファレンス』\n",
+            "shortBio": "某SIerで働いている、1児のお母さんです。いつも15:00になったらぜったいに退社します。",
+            "country": "Japan",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/_dr_asa",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/asa.shiho",
+                    "name": "Facebook"
+                }
+            ],
+            "featured": false
+        },
+        {
+            "id": 18,
+            "name": "松木 雅幸",
+            "company": "株式会社はてな",
+            "companyLogoUrl": "",
+            "title": "チーフエンジニア兼Mackerelサブプロデューサー",
+            "tags": [
+                "Go",
+                "Mackerel",
+                "Perl"
+            ],
+            "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/songmu.jpg",
+            "bio": "大学時代は中国語に没頭し、機械翻訳も少しかじる。卒業後中国へ渡り、ITベンチャーの立ち上げに関わる。帰国後、英会話・中国語スクールの営業兼システム担当、印刷系SIer、カヤックでソーシャルゲームのリードエンジニアなどの経験を経て、はてなに入社。東京オフィスでチーフエンジニアとMackerelのプロダクトオーナーを務める。\n好きな言語はPerlと中国語で、60個以上のPerlモジュールをCPANizeしている。最近はGoがお気に入り。\n\n著書\n- 「みんなのGo言語[現場で使える実践テクニック]」(共著)\n- 「Mackerel サーバ監視［実践］入門」(共著)",
+            "shortBio": "株式会社はてなでチーフエンジニアと、Mackerelのプロダクトオーナーを務めています",
+            "country": "Japan",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/songmu",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/masayuki.matsuki",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/Songmu",
+                    "name": "GitHub"
+                }
+            ],
+            "featured": false
+        },
+        {
+            "id": 19,
+            "name": "川口　奈都子",
+            "company": "LINE株式会社",
+            "companyLogoUrl": "",
+            "title": "エンジニア",
+            "tags": [
+                ""
+            ],
+            "photoUrl": "https://photos.app.goo.gl/dId2H1lqlSqxyJ3u2",
+            "bio": "",
+            "shortBio": "",
+            "country": "",
+            "socials": null,
+            "featured": false
+        },
+        {
+            "id": 20,
+            "name": "あんざいゆき",
+            "company": "株式会社ウフィカ",
+            "companyLogoUrl": "",
+            "title": "代表取締役",
+            "tags": [
+                "Android"
+            ],
+            "photoUrl": "",
+            "bio": "",
+            "shortBio": "",
+            "country": "",
+            "socials": [
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/yanzm",
+                    "name": "Twitter"
+                }
+            ],
+            "featured": false
         }
     ]
 }
