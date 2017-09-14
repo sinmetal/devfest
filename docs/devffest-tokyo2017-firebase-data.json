@@ -1,4 +1,23 @@
 {
+    "partners" : [ {
+        "logos" : [ {
+          "logoUrl" : "../images/logos/google_developers_horizontal.png",
+          "name" : "Google Developers",
+          "url" : "https://developers.google.com/",
+          "width" : 1292
+        } ],
+        "title" : ""
+      },
+      {
+        "logos" : [ {
+          "logoUrl" : "../images/logos/mercari_logo_horizontal.png",
+          "name" : "株式会社メルカリ",
+          "url" : "https://www.mercari.com/jp/",
+          "width" : 2000
+        } ],
+        "title" : "託児所スポンサー"
+      }
+    ],
     "schedule": [
         {
             "date": "2017-10-09",
