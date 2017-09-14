@@ -15,10 +15,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "devfest-tokyo",
-    "domain": "devfest-tokyo.firebaseapp.com",
-    "database": "https://devfest-tokyo.firebaseio.com",
-    "api": "AIzaSyAwOGF_wWa2zG1tfhfsHGqS--fGzwlQ4Pg",
+    "name": "devfest-tokyo-2017",
+    "domain": "devfest-tokyo-2017.firebaseapp.com",
+    "database": "https://devfest-tokyo-2017.firebaseio.com",
+    "api": "AIzaSyABzitAxTz2I0ShVHEloWBmvcHci-n5WYY",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -62,7 +62,7 @@
   "social": [
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyAoFdWxzdl38vzujpxmHtkA4ORjQ7u_GkY",
     "name": "国際交流館",
     "address": "東京都江東区青海2-2-1",
     "link": "http://www.jasso.go.jp/ryugaku/kyoten/tiec/access.html",
