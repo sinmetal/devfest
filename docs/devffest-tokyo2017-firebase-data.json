@@ -1,818 +1,966 @@
 {
-    "partners" : [ {
-        "logos" : [ {
-          "logoUrl" : "../images/logos/google_developers_horizontal.png",
-          "name" : "Google Developers",
-          "url" : "https://developers.google.com/",
-          "width" : 1292
-        } ],
-        "title" : ""
+  "partners": [{
+    "logos": [{
+      "logoUrl": "../images/logos/google_developers_horizontal.png",
+      "name": "Google Developers",
+      "url": "https://developers.google.com/",
+      "width": 1292
+    }],
+    "title": ""
+  },
+    {
+      "logos": [{
+        "logoUrl": "../images/logos/mercari_logo_horizontal.png",
+        "name": "株式会社メルカリ",
+        "url": "https://www.mercari.com/jp/",
+        "width": 2000
+      }],
+      "title": "託児所スポンサー"
+    }
+  ],
+  "team": [
+    {
+      "members": [
+        {
+          "name": "GCPUG",
+          "photoUrl": "https://gcpug.jp/images/logo_box.png",
+          "socials": [
+            {
+              "icon": "website",
+              "link": "http://gcpug.jp/",
+              "name": "Web Site"
+            }
+          ],
+          "title": " "
+        },
+        {
+          "name": "日本Androidの会"
+        }
+      ],
+      "title": "参加コミュニティ"
+    }
+  ],
+  "schedule": [{
+    "date": "2017-10-09",
+    "dateReadable": "October 9 Session",
+    "timeslots": [{
+      "endTime": "10:20",
+      "sessions": [
+        [900]
+      ],
+      "startTime": "10:00"
+    },
+      {
+        "endTime": "11:20",
+        "sessions": [
+          [999], [115], [108], [112], [109], [110]
+        ],
+        "startTime": "10:40"
       },
       {
-        "logos" : [ {
-          "logoUrl" : "../images/logos/mercari_logo_horizontal.png",
-          "name" : "株式会社メルカリ",
-          "url" : "https://www.mercari.com/jp/",
-          "width" : 2000
-        } ],
-        "title" : "託児所スポンサー"
+        "endTime": "12:10",
+        "sessions": [
+          [104], [999], [999], [101], [119], [120]
+        ],
+        "startTime": "11:30"
+      },
+      {
+        "endTime": "14:00",
+        "sessions": [
+          [125], [999], [122], [999], [102], [999]
+        ],
+        "startTime": "13:20"
+      },
+      {
+        "endTime": "14:50",
+        "sessions": [
+          [999], [106], [121], [113], [999], [999]
+        ],
+        "startTime": "14:10"
+      },
+      {
+        "endTime": "15:40",
+        "sessions": [
+          [116], [123], [999], [114], [107], [999]
+        ],
+        "startTime": "15:00"
+      },
+      {
+        "endTime": "16:30",
+        "sessions": [
+          [124], [999], [105], [111], [117], [999]
+        ],
+        "startTime": "15:50"
+      },
+      {
+        "endTime": "17:00",
+        "sessions": [
+          [902]
+        ],
+        "startTime": "16:40"
       }
     ],
-    "schedule": [
-        {
-            "date": "2017-10-09",
-            "dateReadable": "October 9 Session",
-            "timeslots": [
-                {
-                    "endTime": "10:20",
-                    "sessions": [
-                        [
-                            900
-                        ]
-                    ],
-                    "startTime": "10:00"
-                },
-                {
-                    "endTime": "11:20",
-                    "sessions": [
-                        [
-                            901
-                        ],
-                        [
-                            801
-                        ],
-                        [
-                            101
-                        ],
-                        [
-                            102
-                        ],
-                        [
-                            103
-                        ],
-                        [
-                            104
-                        ],
-                        [
-                            106
-                        ]
-                    ],
-                    "startTime": "10:40"
-                }
-            ],
-            "tracks": [
-                {
-                    "title": "国際交流会議場"
-                },
-                {
-                    "title": "メディアホール"
-                },
-                {
-                    "title": "会議室1"
-                },
-                {
-                    "title": "会議室2"
-                },
-                {
-                    "title": "会議室3"
-                },
-                {
-                    "title": "会議室4+5"
-                },
-                {
-                    "title": "ホワイエ"
-                }
-            ]
-        }
-    ],
-    "sessions": {
-        "900": {
-            "complexity": "Beginner",
-            "description": "お祭りが幕を開ける",
-            "id": 900,
-            "language": "Japanese",
-            "presentation": "",
-            "speakers": [
-                301
-            ],
-            "tags": [
-                "Community"
-            ],
-            "title": "オープニング"
-        },
-        "901": {
-            "complexity": "Beginner",
-            "description": "セッション概要",
-            "id": 901,
-            "language": "Japanese",
-            "speakers": [
-                301
-            ],
-            "tags": [
-                "Android"
-            ],
-            "title": "Android"
-        },
-        "801": {
-            "complexity": "Intermediate",
-            "description": "セッション概要",
-            "id": 801,
-            "language": "Japanese",
-            "presentation": "",
-            "speakers": [
-                301
-            ],
-            "tags": [
-                "Girls"
-            ],
-            "title": "GTUG Girls"
-        },
-        "101": {
-            "complexity": "Beginner",
-            "description": "セッション概要",
-            "id": 101,
-            "language": "Japanese",
-            "presentation": "",
-            "speakers": [
-                301
-            ],
-            "tags": [
-                "Go"
-            ],
-            "title": "Go"
-        },
-        "102": {
-            "complexity": "Intermediate",
-            "description": "クラウドの生い立ちや、私はなぜクラウドを求めたのか？そして、クラウドを使う時にどのようなアーキテクチャにすればよいのかについて。",
-            "id": 102,
-            "language": "Japanese",
-            "presentation": "",
-            "speakers": [
-                301
-            ],
-            "tags": [
-                "Cloud"
-            ],
-            "title": "クラウドってなんだろ？クラウドを活かすアプリケーションの設計とは？"
-        },
-        "103": {
-            "complexity": "Beginner",
-            "description": "Fuelio. Success story (I'll write more info later)",
-            "id": 103,
-            "language": "Japanese",
-            "presentation": "",
-            "speakers": [
-                301
-            ],
-            "tags": [
-                "TensorFlow",
-                "機械学習"
-            ],
-            "title": "TensorFlowのキホンのキホン"
-        },
-        "104": {
-            "complexity": "Beginner",
-            "description": "ハンズオン",
-            "id": 104,
-            "language": "Japanese",
-            "speakers": [
-                301
-            ],
-            "tags": [
-                "ハンズオン"
-            ],
-            "title": "ハンズオン"
-        },
-        "106": {
-            "complexity": "Intermediate",
-            "description": "アンカンファレンス",
-            "id": 106,
-            "language": "Japanese",
-            "presentation": "",
-            "speakers": [
-                301
-            ],
-            "tags": [
-                "アンカンファレンス"
-            ],
-            "title": "アンカンファレンス"
-        }
+    "tracks": [{
+      "title": "国際交流会議場"
     },
-    "speakers": [
-        {
-            "id": 1,
-            "name": "中丸 良",
-            "company": "SUPINF Inc.",
-            "companyLogoUrl": "https://www.supinf.co.jp/assets/img/logo.png",
-            "title": "CTO",
-            "tags": [
-                "Google Cloud Platform",
-                "Kubernetes",
-                "Docker",
-                "Google Container Engine"
-            ],
-            "photoUrl": "https://pbs.twimg.com/profile_images/576346337353973760/VtTozI6s_400x400.png",
-            "bio": "Google Certified Professional - Cloud Architect。Go と Docker と Swagger と継続的デプロイと GPU と海外ドラマが好き。新しい技術をどんどんお客様環境に展開する攻めの受託開発・運用会社の立ち上げに参加し早 5 年。これからは日本の技術コミュニティにもより貢献していきたい気持ち",
-            "shortBio": "Google Certified Professional - Cloud Architect。Go と Docker と Swagger と継続的デプロイと GPU と海外ドラマが好き。",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/pottava",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/pottava/",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 2,
-            "name": "momo",
-            "company": "Women Who Go Tokyo ",
-            "companyLogoUrl": "https://womenwhogo-tokyo.connpass.com/",
-            "title": "",
-            "tags": [
-                "Go"
-            ],
-            "photoUrl": "",
-            "bio": "",
-            "shortBio": "",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/mom0tomo",
-                    "name": "Twitter"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 3,
-            "name": "micchie",
-            "company": "Women Who Go Tokyo",
-            "companyLogoUrl": "https://womenwhogo-tokyo.connpass.com/",
-            "title": "",
-            "tags": [
-                "Go"
-            ],
-            "photoUrl": "",
-            "bio": "",
-            "shortBio": "",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/micchiebear",
-                    "name": "Twitter"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 4,
-            "name": "吉川 隼人",
-            "company": "",
-            "companyLogoUrl": "",
-            "title": "Cloud Solutions Architect",
-            "tags": [
-                "Google Cloud Platform",
-                "Machine Learning"
-            ],
-            "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgAAAAAJDRkODMxNzQwLTdkNjQtNGU5OC04ODJjLWNkM2VkNzEwN2I2Mg.jpg",
-            "bio": "APACでソリューション展開したり機械学習やってます。\n最近は機械学習とGCPを広めるためにGCP\u0026ML初心者向けの本の執筆も。",
-            "shortBio": "APACでソリューション展開したり機械学習やってます。",
-            "country": "",
-            "socials": [
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/hayato-yoshikawa-12212671/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/hayatoy",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 5,
-            "name": "上田拓也",
-            "company": "メルカリ・ソウゾウ",
-            "companyLogoUrl": "",
-            "title": "エキスパートエンジニア",
-            "tags": [
-                "Go",
-                "Google Cloud Platform"
-            ],
-            "photoUrl": "https://lh3.google.com/u/0/d/0B91gIqF8Dmb5R05SUUUxUWwwa0U=w2538-h1406-iv1",
-            "bio": "メルカリ／ソウゾウ所属。 サーバサイドエンジニアとして日々Goを書いている。 Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。 大学時代にGoに出会い、それ以来のめり込む。 社内外で自ら勉強会を開催し、Goの普及に取り組んでいる。 マスコットのGopherの絵を描くのも好き。",
-            "shortBio": "Goエンジニア\u0026Gopherアーティスト",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/tenntenn",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/tenntenn",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 6,
-            "name": "太田 満久",
-            "company": "株式会社ブレインパッド",
-            "companyLogoUrl": "https://www.procommit.co.jp/hubfs/blog/support/interview/brainpad_logo_02.png",
-            "title": "",
-            "tags": [
-                "TensorFlow",
-                " Machine Learning",
-                "Deep Learning"
-            ],
-            "photoUrl": "https://ja.gravatar.com/userimage/16715537/b01f360e27cb6c1f87e321923ec0baff.jpg?size=200",
-            "bio": "仕事と趣味で機械学習やっています。",
-            "shortBio": "",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/ohtaman",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/ohtaman",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/ohtaman",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 7,
-            "name": "GTUGGirls",
-            "company": "",
-            "companyLogoUrl": "",
-            "title": "",
-            "tags": [
-                ""
-            ],
-            "photoUrl": "",
-            "bio": "",
-            "shortBio": "",
-            "country": "",
-            "socials": null,
-            "featured": false
-        },
-        {
-            "id": 8,
-            "name": "高橋誠二 ",
-            "company": "株式会社Gunosy",
-            "companyLogoUrl": "gunosy.co.jp/img/common/logo_footer@x2.png",
-            "title": "新規事業開発室 エンジニア",
-            "tags": [
-                "Go",
-                " API",
-                " ServerSide"
-            ],
-            "photoUrl": "https://avatars2.githubusercontent.com/u/2871985?v=4\u0026u=3f7685281fe9880388cf26410ed134157d04e2ba\u0026s=400",
-            "bio": "株式会社Gunosy 新規事業開発室所属エンジニア。 新卒入社のDeNAにて大規模BaaS開発の経験を積んだのち、株式会社トランスリミットにてゲームのクライアントサイドの開発を担当。 2017年3月ごろよりGunosyに参画。女性向けアプリ「LUCRA」の開発チームにて、開発初期からGoのAPI開発、SwiftのiOSクライアント開発の両面を担当。 Goへのコントリビューション、GoConference登壇、golang.tokyo運営メンバー参加など、主にGo, Ruby関連のコミュニティ活動に取り組む。",
-            "shortBio": "株式会社Gunosy 新規事業開発室所属エンジニア。  2017年3月ごろよりGunosyに参画。女性向けアプリ「LUCRA」の開発チームにて、開発初期からGoのAPI開発、SwiftのiOSクライアント開発の両面を担当。 Goのコミュニティにて登壇、本体へのコントリビューションに取り組む。",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/__timakin__",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/seiji.takahashi.92",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/timakin",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 9,
-            "name": "長尾ユリコ",
-            "company": "フリーランス",
-            "companyLogoUrl": "",
-            "title": "スマホアプリクリエイター",
-            "tags": [
-                "droid girls",
-                " GTUG Girls",
-                " Android"
-            ],
-            "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/nagaoyuriko.jpg",
-            "bio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。テーマパークダンサーを目指すも10年連続オーディションに落選、女優を目指しCM・映画に出演するも鳴かず飛ばずで三十路を迎える。崖っぷちに立たされ、人手不足のIT業界に参戦。一路エンジニアを目指して奮闘、ボロボロになりながら今に至る。",
-            "shortBio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/nagaoyuriko",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/nagaoyuriko",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/%E3%83%A6%E3%83%AA%E3%82%B3-%E9%95%B7%E5%B0%BE-9589787b/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "gplus",
-                    "link": "https://plus.google.com/115533387615389000943",
-                    "name": "Google"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/nagaoyuriko",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 10,
-            "name": "Makoto Yamazaki",
-            "company": "uPhyca Inc.",
-            "companyLogoUrl": "https://www.uphyca.com/images/logo.svg",
-            "title": "Android engineer",
-            "tags": [
-                "Android",
-                " Realm",
-                " Kotlin"
-            ],
-            "photoUrl": "https://storage.googleapis.com/image-devfest-tokyo-2017/zakisan.jpeg",
-            "bio": "株式会社ウフィカでAndroidアプリの開発、外部企業のアドバイザーなどをしています。",
-            "shortBio": "Androidエンジニア",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/zaki50",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/zaki50",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "gplus",
-                    "link": "https://plus.google.com/+MakotoYamazaki",
-                    "name": "Google"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/zaki50",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 11,
-            "name": "soundTricker318 (大橋啓介)",
-            "company": "株式会社カブク",
-            "companyLogoUrl": "https://www.kabuku.co.jp/img/kabuku-logo.png",
-            "title": "Google Developer Expert Google Apps Script ",
-            "tags": [
-                "Google Cloud Platform",
-                " GCPUG",
-                " Angular",
-                " GoogleAppsScript"
-            ],
-            "photoUrl": "https://avatars3.githubusercontent.com/u/421752?v=4\u0026s=460",
-            "bio": "Google API、Google Apps、Google App Engine、Angular(1\u00262)、Google Apps Scriptらへんの人 一応Google Developer Expert(Apps Script)です。",
-            "shortBio": "変なおじさん",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/soundTricker318",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/soundTricker",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/keisukeoohashi/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "gplus",
-                    "link": "https://plus.google.com/+KeisukeOohashi",
-                    "name": "Google"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/soundTricker",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 12,
-            "name": "sinmetal",
-            "company": "株式会社トップゲート",
-            "companyLogoUrl": "https://www.topgate.co.jp/wp/wp-content/themes/TG_201612/common/images/logo_topgate.svg",
-            "title": "GAEマイスター",
-            "tags": [
-                "Google Cloud Platform"
-            ],
-            "photoUrl": "https://storage.googleapis.com/stone-swallow/sinmetal.jpg",
-            "bio": "Google App Engineを愛してやまないエンジニア。最近はGolangがお気に入り。GCPUG Tokyo Organizer",
-            "shortBio": "GCPUG Tokyo Organizer",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/sinmetal",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/sinmetal",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 13,
-            "name": "pospome",
-            "company": "DeNA",
-            "companyLogoUrl": "",
-            "title": "サーバサイドエンジニア",
-            "tags": [
-                "Go",
-                " GCP",
-                " DDD"
-            ],
-            "photoUrl": "https://en.gravatar.com/userimage/62504232/94e9971f458e6e58770f92a9bcfe718b.png?size=200",
-            "bio": "",
-            "shortBio": "",
-            "country": "",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/pospome",
-                    "name": "Twitter"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 14,
-            "name": "なかむら　さとる",
-            "company": "LDI co.,ltd",
-            "companyLogoUrl": "",
-            "title": "マネージャー",
-            "tags": [
-                "bigquery",
-                "GoogleAnalytics",
-                "Cloud"
-            ],
-            "photoUrl": "",
-            "bio": "",
-            "shortBio": "",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/satoluxx",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/satoru.mag",
-                    "name": "Facebook"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 15,
-            "name": "Keiji ARIYAMA",
-            "company": "有限会社シーリス",
-            "companyLogoUrl": "",
-            "title": "ソフトウェアデベロッパー",
-            "tags": [
-                "Android",
-                " TensorFlow",
-                " Object Detection"
-            ],
-            "photoUrl": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/p240x240/12321433_10209144884448810_6293562996622810960_n.jpg?oh=164b9eefa12cbe5fdbae279ea8211ce2\u0026oe=5A133B09",
-            "bio": "最近は機械学習（TensorFlow+Android）で遊んだり仕事したり。",
-            "shortBio": "最近は機械学習（TensorFlow+Android）で遊んだり仕事したり。",
-            "country": "Osaka Japan",
-            "socials": [
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/keiji.ariyama",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/keijiariyama/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "gplus",
-                    "link": "https://plus.google.com/+keiji_ariyama",
-                    "name": "Google"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/keiji",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 16,
-            "name": "金子 慎太郎 (Shintaro Kaneko)",
-            "company": "株式会社エウレカ",
-            "companyLogoUrl": "https://eure.box.com/s/7nbrumua137r03icx6q4rrpxfhsqjl17",
-            "title": "CTO",
-            "tags": [
-                "Go",
-                "Golang"
-            ],
-            "photoUrl": "https://eure.box.com/s/7taw3xlkhy7ldwzr3xx5a9y36sfkp4c3",
-            "bio": "2010年、東京理科大学理学部を卒業後、組込系企業に入社し品質保証に従事。2011年、カナダ留学。帰国後、東京理科大学の研究室OBとして最適化理論の研究に携わる。2012年、株式会社エウレカに入社。「Pairs」および「Couples」の立ち上げメンバーとして開発に参画。2016年10月、執行役員CTOに就任。",
-            "shortBio": "",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/kaneshin0120",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/shintaro.kaneko",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/kaneshin",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 17,
-            "name": "阿佐志保",
-            "company": "TIS株式会社",
-            "companyLogoUrl": "https://www.tis.co.jp/common/images/logo_tis.png",
-            "title": "主査",
-            "tags": [
-                "Google Cloud Platform"
-            ],
-            "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/asa.jpg",
-            "bio": "金融系シンクタンクなどで銀行/証券向けインフラエンジニア、製造業向けインフラエンジニアとして従事。\n都市銀行情報系基盤システム構築やシステム統廃合、証券会社向けバックオフィスシステムのミドルウエア開発や統合認証基盤構築、大規模石油/LNGプラント建設を行うエンジニアリング企業のシステム基盤構築などを経験。\n\n出産で離職後、在職中のエンタープライズシステムでのインフラ構築経験を活かし、Linuxやクラウドなどを独学で勉強し、技術書を執筆。\n約8年間の専業主婦を経て、2016年5月より、TIS株式会社の調査研究部門に所属し、広報・人材採用を担当。\n\n■著書情報\n『プログラマのためのGoogle Cloud Platform入門』\n『プログラマのためのDocker教科書 インフラの基礎知識＆コードによる環境構築の自動化』\n『Amazon Web Servicesではじめる新米プログラマのためのクラウド超入門』\n『Windows8 開発ポケットリファレンス』\n",
-            "shortBio": "某SIerで働いている、1児のお母さんです。いつも15:00になったらぜったいに退社します。",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/_dr_asa",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/asa.shiho",
-                    "name": "Facebook"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 18,
-            "name": "松木 雅幸",
-            "company": "株式会社はてな",
-            "companyLogoUrl": "",
-            "title": "チーフエンジニア兼Mackerelサブプロデューサー",
-            "tags": [
-                "Go",
-                "Mackerel",
-                "Perl"
-            ],
-            "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/songmu.jpg",
-            "bio": "大学時代は中国語に没頭し、機械翻訳も少しかじる。卒業後中国へ渡り、ITベンチャーの立ち上げに関わる。帰国後、英会話・中国語スクールの営業兼システム担当、印刷系SIer、カヤックでソーシャルゲームのリードエンジニアなどの経験を経て、はてなに入社。東京オフィスでチーフエンジニアとMackerelのプロダクトオーナーを務める。\n好きな言語はPerlと中国語で、60個以上のPerlモジュールをCPANizeしている。最近はGoがお気に入り。\n\n著書\n- 「みんなのGo言語[現場で使える実践テクニック]」(共著)\n- 「Mackerel サーバ監視［実践］入門」(共著)",
-            "shortBio": "株式会社はてなでチーフエンジニアと、Mackerelのプロダクトオーナーを務めています",
-            "country": "Japan",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/songmu",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/masayuki.matsuki",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/Songmu",
-                    "name": "GitHub"
-                }
-            ],
-            "featured": false
-        },
-        {
-            "id": 19,
-            "name": "川口　奈都子",
-            "company": "LINE株式会社",
-            "companyLogoUrl": "",
-            "title": "エンジニア",
-            "tags": [
-                ""
-            ],
-            "photoUrl": "https://photos.app.goo.gl/dId2H1lqlSqxyJ3u2",
-            "bio": "",
-            "shortBio": "",
-            "country": "",
-            "socials": null,
-            "featured": false
-        },
-        {
-            "id": 20,
-            "name": "あんざいゆき",
-            "company": "株式会社ウフィカ",
-            "companyLogoUrl": "",
-            "title": "代表取締役",
-            "tags": [
-                "Android"
-            ],
-            "photoUrl": "",
-            "bio": "",
-            "shortBio": "",
-            "country": "",
-            "socials": [
-                {
-                    "icon": "twitter",
-                    "link": "https://twitter.com/yanzm",
-                    "name": "Twitter"
-                }
-            ],
-            "featured": false
-        }
-    ],
-    "team": [
       {
-        "members": [
-          {
-            "name": "GCPUG",
-            "photoUrl": "https://gcpug.jp/images/logo_box.png",
-            "socials": [
-              {
-                "icon": "website",
-                "link": "http://gcpug.jp/",
-                "name": "Web Site"
-              }
-            ],
-            "title": " "
-          },
-          {
-            "name": "日本Androidの会"
-          }
-        ],
-        "title": "参加コミュニティ"
+        "title": "メディアホール"
+      },
+      {
+        "title": "会議室1"
+      },
+      {
+        "title": "会議室2"
+      },
+      {
+        "title": "会議室3"
+      },
+      {
+        "title": "会議室4+5"
       }
     ]
+  }],
+  "sessions": {
+    "999": {
+      "id": 999,
+      "title": "Coming Soon",
+      "description": "Coming Soon",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "900": {
+      "id": 900,
+      "title": "オープンニング",
+      "description": "お祭りが始まる。",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "901": {
+      "id": 901,
+      "title": "お昼休憩",
+      "description": "休憩",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "902": {
+      "id": 902,
+      "title": "クロージング",
+      "description": "家に帰るまでがお祭り。",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "101": {
+      "id": 101,
+      "title": "手軽に世界展開: Federated Clusters on GKE！",
+      "description": "Kubernetes の Cluster Federation と、それと統合された GCP の機能を中心に、グローバルな Web サービスを展開するための構成をご紹介します。",
+      "tags": ["Google Cloud Platform", "Google Container Engine", "Kubernetes", "Global", "Demo"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [101],
+      "complecity": "Intermediate"
+    },
+    "102": {
+      "id": 102,
+      "title": "Go徒然日記",
+      "description": "はじめてのGoからプロダクトへの導入と運用までの1年をふりかえります。",
+      "tags": ["Go"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [102, 103],
+      "complecity": "Beginner"
+    },
+    "104": {
+      "id": 104,
+      "title": "GCPではじめるかんたん機械学習",
+      "description": "機械学習ってすごそうだけど何からやったらいいかわからない！GCPなら、知識がなくても簡単に使えるAPIだけじゃなく、色々つなげてアプリにするのも簡単なんです！そんなエンジニア目線の機械学習の初め方＆使い方を紹介します。",
+      "tags": ["Google Cloud Platform", "Machine Learning", "TensorFlow", "Firebase"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [104],
+      "complecity": "Beginner"
+    },
+    "105": {
+      "id": 105,
+      "title": "Go1.8 for Google App Engine",
+      "description": "Google App Engine Standard Environment のGo1.8対応についてお話します。",
+      "tags": ["Go", "Google Cloud Platform", "Google App Engine"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [105],
+      "complecity": "Intermediate"
+    },
+    "106": {
+      "id": 106,
+      "title": "(仮) deeplearn.js と TensorFlow で遊ぶ",
+      "description": "",
+      "tags": ["TensorFlow"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [106],
+      "complecity": "Beginner"
+    },
+    "107": {
+      "id": 107,
+      "title": "40分アプリ作成チャレンジ",
+      "description": "",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [120],
+      "complecity": "Beginner"
+    },
+    "108": {
+      "id": 108,
+      "title": "BlockChain on Go",
+      "description": "Goの応用ケースは、主にAPIやモバイル開発だと思いますが、中でも最近注目テーマとして、ブロックチェーンが挙げられると思います。当日は概要を交えつつ、実際にブロックチェーンのライブラリやプロジェクトの紹介を行おうと思います。",
+      "tags": ["BlockChain", " Go", " API"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [108],
+      "complecity": "Intermediate"
+    },
+    "109": {
+      "id": 109,
+      "title": "体育会系女Androidエンジニアが会社の面接を突破する技術",
+      "description": "",
+      "tags": ["droid girls", " GTUG Girls", " Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [109],
+      "complecity": "Beginner"
+    },
+    "110": {
+      "id": 110,
+      "title": "Android Studio 3.0 Profilerハンズオン",
+      "description": "Android Studio 3.0 のプロファイラーの機能を実際に試せるようなハンズオンを行います。",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [110],
+      "complecity": "Intermediate"
+    },
+    "111": {
+      "id": 111,
+      "title": "Android ThingsとGCPで始まる何か",
+      "description": "Android ThingsとGCPを利用して何ができるかを話します。",
+      "tags": ["AndroidThings", " Google Cloud Platform"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [111],
+      "complecity": "Intermediate"
+    },
+    "112": {
+      "id": 112,
+      "title": "クラウドってなんだろ？クラウドを活かすアプリケーションの設計とは？",
+      "description": "クラウドはなぜ必要とされたのか？クラウド上でアプリケーションを動かす時に、どのようなアーキテクチャを考えるべきか？",
+      "tags": ["Google Cloud Platform"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [112],
+      "complecity": "Beginner"
+    },
+    "113": {
+      "id": 113,
+      "title": "Goのサーバサイド実装におけるレイヤ設計とレイヤ内実装について考える",
+      "description": "サーバサイド実装のレイヤ設計についてお話します。Goの言語仕様に沿った内容になりますが、普段Go以外の言語を利用している方でも理解していただける内容かと思います。",
+      "tags": ["Go"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [113],
+      "complecity": "Intermediate"
+    },
+    "114": {
+      "id": 114,
+      "title": "FirebaseAnalytics + BigQuery + DataStudio",
+      "description": "Firebaseの技術的視点というよりは、そこで得られた行動データをどのように使うことが出来るかを紹介します！",
+      "tags": ["BigData", "BigQuery", "Analytics", "Google Cloud Platform"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [114],
+      "complecity": "Beginner"
+    },
+    "115": {
+      "id": 115,
+      "title": "イラストFace Detectionへの道（TensorFlowで趣味の画像収集サーバーを作る2017年10月号）",
+      "description": "Googleの技術を支える「TensorFlow」を使って、個人で趣味の画像収集サーバーの構築にトライしています。取り組む中でのつまづきや発見など、進捗を報告します。",
+      "tags": ["TensorFlow", "Object Detection"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [115],
+      "complecity": "Intermediate"
+    },
+    "116": {
+      "id": 116,
+      "title": "Goによるプロダクト開発 〜設計、テスト、Go2に向けて〜",
+      "description": "",
+      "tags": ["Go"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [116, 105, 118],
+      "complecity": "Intermediate"
+    },
+    "117": {
+      "id": 117,
+      "title": "私たちクラウドのこんなところが好き",
+      "description": "AWSとGCPを愛してやまないGeekWomenな2人が「クラウドってこんなとこが良いよね」「こんなところもうちょっと頑張ってほしいね」「GCPもAWSもみんな違ってみんないい」「クラウドの世界をみんなで盛り上げようぜ」というパッションでトークしちゃいます！",
+      "tags": ["Google Cloud Platform", "Amazon Web Services"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [117],
+      "complecity": "Beginner"
+    },
+    "119": {
+      "id": 119,
+      "title": "女性エンジニアのキャリア at LINE",
+      "description": "韓国、台湾など海外拠点や外国人社員も多いLINEで、これまでどういう仕事をしてきたか、グローバルサービスで苦労した点についてお話しします。\n女性エンジニアのキャリアパスを考えるひとつの参考になればうれしいです。\nLINE社の子供がほしい女性へのサポート制度や社内保育園についてもご紹介します。",
+      "tags": ["Girls"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [119],
+      "complecity": "Beginner"
+    },
+    "120": {
+      "id": 120,
+      "title": "Android Studio 3.0 Layout Editor + ConstraintLayout ハンズオン",
+      "description": "",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [120],
+      "complecity": "Beginner"
+    },
+    "121": {
+      "id": 121,
+      "title": "Android Things＋TensorFlowで作る猫トイレ監視システム(仮)",
+      "description": "多頭飼い向けの猫識別トイレ監視システムをAndroid Things、TensorFlowなどを使って作ってみた話です。Android Things、TensorFlowの前提知識がなくてもOK。",
+      "tags": ["Android", "Android Things", "TensorFlow", "Firebase"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [121],
+      "complecity": "Beginner"
+    },
+    "122": {
+      "id": 122,
+      "title": "Tangoで踊らされたオトコがARCoreと向き合う話",
+      "description": "",
+      "tags": ["Tango", " ARCore"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [122],
+      "complecity": "Beginner"
+    },
+    "123": {
+      "id": 123,
+      "title": "Daydreamの開発情報一気解説",
+      "description": "DaydreamでVRアプリを開発するために必要な情報は様々なものが公開されています。特にコード、アプリともに公開されているDaydream Elementsはすぐに試せるノウハウの宝庫です。コントローラーを効果的に活用するためのArm Modelなどについて、時間の許す限り読み解いていきます。",
+      "tags": ["Daydream", "VR", "Android", "Unity"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [123],
+      "complecity": "Beginner"
+    },
+    "124": {
+      "id": 124,
+      "title": "React Nativeアプリをリリースし続けるために、最初に行う8つの取り組み",
+      "description": "弊社では2016年に1本、2017年になってから3本のRN製アプリをリリースしました。いずれもFluxアーキテクチャの採用を見送る程度には小～中規模のアプリでしたが、リリースエンジニアリングについては、多くの知見が得られました。\n\n往々にして、CI/CDやリリースのタイミングまでに必要になるツールは、最初から入れておいてしまったほうがリリース後も安定して動作してくれるものです。本セッションでは、私が react-native init の直後に初期設定の一環として設定している内容をご紹介します。\n\nReact Nativeをやっていく中で必要になる、AndroidやiOSをネイティブアプリとしてビルドしたりリリースしていくにあたってのベストプラクティスを知りたいJSエンジニアにオススメです。",
+      "tags": ["Android", "iOS", "React Native", "Release"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [124],
+      "complecity": "Beginner"
+    },
+    "125": {
+      "id": 125,
+      "title": "GCPパネルディスカッション",
+      "description": "GCPUGメンバーで、最近のGCP動向や、便利なサービス、欲しい機能などについて話し合います。",
+      "tags": ["Google Cloud Platform"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [112,111],
+      "complecity": "Beginner"
+    }
+  },
+  "speakers": [{
+    "id": 101,
+    "name": "中丸 良",
+    "company": "SUPINF Inc.",
+    "companyLogoUrl": "https://www.supinf.co.jp/assets/img/logo.png",
+    "title": "CTO",
+    "tags": ["Google Cloud Platform", "Kubernetes", "Docker", "Google Container Engine"],
+    "photoUrl": "https://pbs.twimg.com/profile_images/576346337353973760/VtTozI6s_400x400.png",
+    "bio": "Google Certified Professional - Cloud Architect。Go と Docker と Swagger と継続的デプロイと GPU と海外ドラマが好き。新しい技術をどんどんお客様環境に展開する攻めの受託開発・運用会社の立ち上げに参加し早 5 年。これからは日本の技術コミュニティにもより貢献していきたい気持ち",
+    "shortBio": "Google Certified Professional - Cloud Architect。Go と Docker と Swagger と継続的デプロイと GPU と海外ドラマが好き。",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/pottava",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/pottava/",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 102,
+    "name": "momo",
+    "company": "Women Who Go Tokyo ",
+    "companyLogoUrl": "https://womenwhogo-tokyo.connpass.com/",
+    "title": "",
+    "tags": ["Go"],
+    "photoUrl": "",
+    "bio": "",
+    "shortBio": "",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/mom0tomo",
+      "name": "Twitter"
+    }],
+    "featured": false
+  }, {
+    "id": 103,
+    "name": "micchie",
+    "company": "Women Who Go Tokyo",
+    "companyLogoUrl": "https://womenwhogo-tokyo.connpass.com/",
+    "title": "",
+    "tags": ["Go"],
+    "photoUrl": "",
+    "bio": "",
+    "shortBio": "",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/micchiebear",
+      "name": "Twitter"
+    }],
+    "featured": false
+  }, {
+    "id": 104,
+    "name": "吉川 隼人",
+    "company": "",
+    "companyLogoUrl": "",
+    "title": "Cloud Solutions Architect",
+    "tags": ["Google Cloud Platform", "Machine Learning"],
+    "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgAAAAAJDRkODMxNzQwLTdkNjQtNGU5OC04ODJjLWNkM2VkNzEwN2I2Mg.jpg",
+    "bio": "APACでソリューション展開したり機械学習やってます。\n最近は機械学習とGCPを広めるためにGCP\u0026ML初心者向けの本の執筆も。",
+    "shortBio": "APACでソリューション展開したり機械学習やってます。",
+    "country": "",
+    "socials": [{
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/hayato-yoshikawa-12212671/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/hayatoy",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 105,
+    "name": "上田拓也",
+    "company": "メルカリ・ソウゾウ",
+    "companyLogoUrl": "",
+    "title": "エキスパートエンジニア",
+    "tags": ["Go", "Google Cloud Platform"],
+    "photoUrl": "https://lh3.google.com/u/0/d/0B91gIqF8Dmb5R05SUUUxUWwwa0U=w2538-h1406-iv1",
+    "bio": "メルカリ／ソウゾウ所属。 サーバサイドエンジニアとして日々Goを書いている。 Go Conference主催者。golang.tokyo、Goビギナーズ、GCPUG Tokyo運営。 大学時代にGoに出会い、それ以来のめり込む。 社内外で自ら勉強会を開催し、Goの普及に取り組んでいる。 マスコットのGopherの絵を描くのも好き。",
+    "shortBio": "Goエンジニア\u0026Gopherアーティスト",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/tenntenn",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/tenntenn",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 106,
+    "name": "太田 満久",
+    "company": "株式会社ブレインパッド",
+    "companyLogoUrl": "https://www.procommit.co.jp/hubfs/blog/support/interview/brainpad_logo_02.png",
+    "title": "",
+    "tags": ["TensorFlow", " Machine Learning", "Deep Learning"],
+    "photoUrl": "https://ja.gravatar.com/userimage/16715537/b01f360e27cb6c1f87e321923ec0baff.jpg?size=200",
+    "bio": "仕事と趣味で機械学習やっています。",
+    "shortBio": "",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/ohtaman",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/ohtaman",
+      "name": "Facebook"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/ohtaman",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 108,
+    "name": "高橋誠二 ",
+    "company": "株式会社Gunosy",
+    "companyLogoUrl": "gunosy.co.jp/img/common/logo_footer@x2.png",
+    "title": "新規事業開発室 エンジニア",
+    "tags": ["Go", " API", " ServerSide"],
+    "photoUrl": "https://avatars2.githubusercontent.com/u/2871985?v=4\u0026u=3f7685281fe9880388cf26410ed134157d04e2ba\u0026s=400",
+    "bio": "株式会社Gunosy 新規事業開発室所属エンジニア。 新卒入社のDeNAにて大規模BaaS開発の経験を積んだのち、株式会社トランスリミットにてゲームのクライアントサイドの開発を担当。 2017年3月ごろよりGunosyに参画。女性向けアプリ「LUCRA」の開発チームにて、開発初期からGoのAPI開発、SwiftのiOSクライアント開発の両面を担当。 Goへのコントリビューション、GoConference登壇、golang.tokyo運営メンバー参加など、主にGo, Ruby関連のコミュニティ活動に取り組む。",
+    "shortBio": "株式会社Gunosy 新規事業開発室所属エンジニア。  2017年3月ごろよりGunosyに参画。女性向けアプリ「LUCRA」の開発チームにて、開発初期からGoのAPI開発、SwiftのiOSクライアント開発の両面を担当。 Goのコミュニティにて登壇、本体へのコントリビューションに取り組む。",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/__timakin__",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/seiji.takahashi.92",
+      "name": "Facebook"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/timakin",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 109,
+    "name": "長尾ユリコ",
+    "company": "フリーランス",
+    "companyLogoUrl": "",
+    "title": "スマホアプリクリエイター",
+    "tags": ["droid girls", " GTUG Girls", " Android"],
+    "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/nagaoyuriko.jpg",
+    "bio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。テーマパークダンサーを目指すも10年連続オーディションに落選、女優を目指しCM・映画に出演するも鳴かず飛ばずで三十路を迎える。崖っぷちに立たされ、人手不足のIT業界に参戦。一路エンジニアを目指して奮闘、ボロボロになりながら今に至る。",
+    "shortBio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/nagaoyuriko",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/nagaoyuriko",
+      "name": "Facebook"
+    }, {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/%E3%83%A6%E3%83%AA%E3%82%B3-%E9%95%B7%E5%B0%BE-9589787b/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "gplus",
+      "link": "https://plus.google.com/115533387615389000943",
+      "name": "Google"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/nagaoyuriko",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 110,
+    "name": "Makoto Yamazaki",
+    "company": "uPhyca Inc.",
+    "companyLogoUrl": "https://www.uphyca.com/images/logo.svg",
+    "title": "Android engineer",
+    "tags": ["Android", " Realm", " Kotlin"],
+    "photoUrl": "https://storage.googleapis.com/image-devfest-tokyo-2017/zakisan.jpeg",
+    "bio": "株式会社ウフィカでAndroidアプリの開発、外部企業のアドバイザーなどをしています。",
+    "shortBio": "Androidエンジニア",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/zaki50",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/zaki50",
+      "name": "Facebook"
+    }, {
+      "icon": "gplus",
+      "link": "https://plus.google.com/+MakotoYamazaki",
+      "name": "Google"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/zaki50",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 111,
+    "name": "soundTricker318 (大橋啓介)",
+    "company": "株式会社カブク",
+    "companyLogoUrl": "https://www.kabuku.co.jp/img/kabuku-logo.png",
+    "title": "Google Developer Expert Google Apps Script ",
+    "tags": ["Google Cloud Platform", " GCPUG", " Angular", " GoogleAppsScript"],
+    "photoUrl": "https://avatars3.githubusercontent.com/u/421752?v=4\u0026s=460",
+    "bio": "Google API、Google Apps、Google App Engine、Angular(1\u00262)、Google Apps Scriptらへんの人 一応Google Developer Expert(Apps Script)です。",
+    "shortBio": "変なおじさん",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/soundTricker318",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/soundTricker",
+      "name": "Facebook"
+    }, {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/keisukeoohashi/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "gplus",
+      "link": "https://plus.google.com/+KeisukeOohashi",
+      "name": "Google"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/soundTricker",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 112,
+    "name": "sinmetal",
+    "company": "株式会社トップゲート",
+    "companyLogoUrl": "https://www.topgate.co.jp/wp/wp-content/themes/TG_201612/common/images/logo_topgate.svg",
+    "title": "GAEマイスター",
+    "tags": ["Google Cloud Platform"],
+    "photoUrl": "https://storage.googleapis.com/stone-swallow/sinmetal.jpg",
+    "bio": "Google App Engineを愛してやまないエンジニア。最近はGolangがお気に入り。GCPUG Tokyo Organizer",
+    "shortBio": "GCPUG Tokyo Organizer",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/sinmetal",
+      "name": "Twitter"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/sinmetal",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 113,
+    "name": "pospome",
+    "company": "DeNA",
+    "companyLogoUrl": "",
+    "title": "サーバサイドエンジニア",
+    "tags": ["Go", " Google Cloud Platform", " DDD"],
+    "photoUrl": "https://en.gravatar.com/userimage/62504232/94e9971f458e6e58770f92a9bcfe718b.png?size=200",
+    "bio": "",
+    "shortBio": "",
+    "country": "",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/pospome",
+      "name": "Twitter"
+    }],
+    "featured": false
+  }, {
+    "id": 114,
+    "name": "なかむら　さとる",
+    "company": "LDI co.,ltd",
+    "companyLogoUrl": "",
+    "title": "マネージャー",
+    "tags": ["BigQuery", "GoogleAnalytics", "Google Cloud Platform"],
+    "photoUrl": "",
+    "bio": "",
+    "shortBio": "",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/satoluxx",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/satoru.mag",
+      "name": "Facebook"
+    }],
+    "featured": false
+  }, {
+    "id": 115,
+    "name": "Keiji ARIYAMA",
+    "company": "有限会社シーリス",
+    "companyLogoUrl": "",
+    "title": "ソフトウェアデベロッパー",
+    "tags": ["Android", " TensorFlow", " Object Detection"],
+    "photoUrl": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/p240x240/12321433_10209144884448810_6293562996622810960_n.jpg?oh=164b9eefa12cbe5fdbae279ea8211ce2\u0026oe=5A133B09",
+    "bio": "最近は機械学習（TensorFlow+Android）で遊んだり仕事したり。",
+    "shortBio": "最近は機械学習（TensorFlow+Android）で遊んだり仕事したり。",
+    "country": "Osaka Japan",
+    "socials": [{
+      "icon": "facebook",
+      "link": "https://www.facebook.com/keiji.ariyama",
+      "name": "Facebook"
+    }, {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/keijiariyama/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "gplus",
+      "link": "https://plus.google.com/+keiji_ariyama",
+      "name": "Google"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/keiji",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 116,
+    "name": "金子 慎太郎 (Shintaro Kaneko)",
+    "company": "株式会社エウレカ",
+    "companyLogoUrl": "https://eure.box.com/s/7nbrumua137r03icx6q4rrpxfhsqjl17",
+    "title": "CTO",
+    "tags": ["Go"],
+    "photoUrl": "https://eure.box.com/s/7taw3xlkhy7ldwzr3xx5a9y36sfkp4c3",
+    "bio": "2010年、東京理科大学理学部を卒業後、組込系企業に入社し品質保証に従事。2011年、カナダ留学。帰国後、東京理科大学の研究室OBとして最適化理論の研究に携わる。2012年、株式会社エウレカに入社。「Pairs」および「Couples」の立ち上げメンバーとして開発に参画。2016年10月、執行役員CTOに就任。",
+    "shortBio": "",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/kaneshin0120",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/shintaro.kaneko",
+      "name": "Facebook"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/kaneshin",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 117,
+    "name": "阿佐志保",
+    "company": "TIS株式会社",
+    "companyLogoUrl": "https://www.tis.co.jp/common/images/logo_tis.png",
+    "title": "主査",
+    "tags": ["Google Cloud Platform"],
+    "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/asa.jpg",
+    "bio": "金融系シンクタンクなどで銀行/証券向けインフラエンジニア、製造業向けインフラエンジニアとして従事。\n都市銀行情報系基盤システム構築やシステム統廃合、証券会社向けバックオフィスシステムのミドルウエア開発や統合認証基盤構築、大規模石油/LNGプラント建設を行うエンジニアリング企業のシステム基盤構築などを経験。\n\n出産で離職後、在職中のエンタープライズシステムでのインフラ構築経験を活かし、Linuxやクラウドなどを独学で勉強し、技術書を執筆。\n約8年間の専業主婦を経て、2016年5月より、TIS株式会社の調査研究部門に所属し、広報・人材採用を担当。\n\n■著書情報\n『プログラマのためのGoogle Cloud Platform入門』\n『プログラマのためのDocker教科書 インフラの基礎知識＆コードによる環境構築の自動化』\n『Amazon Web Servicesではじめる新米プログラマのためのクラウド超入門』\n『Windows8 開発ポケットリファレンス』\n",
+    "shortBio": "某SIerで働いている、1児のお母さんです。いつも15:00になったらぜったいに退社します。",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/_dr_asa",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/asa.shiho",
+      "name": "Facebook"
+    }],
+    "featured": false
+  }, {
+    "id": 118,
+    "name": "松木 雅幸",
+    "company": "株式会社はてな",
+    "companyLogoUrl": "",
+    "title": "チーフエンジニア兼Mackerelサブプロデューサー",
+    "tags": ["Go", "Mackerel", "Perl"],
+    "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/songmu.jpg",
+    "bio": "大学時代は中国語に没頭し、機械翻訳も少しかじる。卒業後中国へ渡り、ITベンチャーの立ち上げに関わる。帰国後、英会話・中国語スクールの営業兼システム担当、印刷系SIer、カヤックでソーシャルゲームのリードエンジニアなどの経験を経て、はてなに入社。東京オフィスでチーフエンジニアとMackerelのプロダクトオーナーを務める。\n好きな言語はPerlと中国語で、60個以上のPerlモジュールをCPANizeしている。最近はGoがお気に入り。\n\n著書\n- 「みんなのGo言語[現場で使える実践テクニック]」(共著)\n- 「Mackerel サーバ監視［実践］入門」(共著)",
+    "shortBio": "株式会社はてなでチーフエンジニアと、Mackerelのプロダクトオーナーを務めています",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/songmu",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/masayuki.matsuki",
+      "name": "Facebook"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/Songmu",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 119,
+    "name": "川口　奈都子",
+    "company": "LINE株式会社",
+    "companyLogoUrl": "",
+    "title": "エンジニア",
+    "tags": [""],
+    "photoUrl": "https://photos.app.goo.gl/dId2H1lqlSqxyJ3u2",
+    "bio": "",
+    "shortBio": "",
+    "country": "",
+    "socials": null,
+    "featured": false
+  }, {
+    "id": 120,
+    "name": "あんざいゆき",
+    "company": "株式会社ウフィカ",
+    "companyLogoUrl": "",
+    "title": "代表取締役",
+    "tags": ["Android"],
+    "photoUrl": "",
+    "bio": "",
+    "shortBio": "",
+    "country": "",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/yanzm",
+      "name": "Twitter"
+    }],
+    "featured": false
+  }, {
+    "id": 121,
+    "name": "Akio Kondo",
+    "company": "Singularity株式会社",
+    "companyLogoUrl": "https://snglrty.net/images/logo240.png",
+    "title": "代表取締役",
+    "tags": ["Android", "TensorFlow", "AndroidThings"],
+    "photoUrl": "https://ja.gravatar.com/userimage/12233840/fc65fe321caa194ecf2172ec87477d6d.jpg?size=200",
+    "bio": "元組み込み系エンジニア",
+    "shortBio": "カラオケがしたい",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https:/twitter.com/kojira",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://facebook.com/akio.kondo",
+      "name": "Facebook"
+    }, {
+      "icon": "gplus",
+      "link": "https://plus.google.com/+AkioKondoZ",
+      "name": "Google"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/kojira",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 122,
+    "name": "eegozilla",
+    "company": "",
+    "companyLogoUrl": "",
+    "title": "",
+    "tags": ["Tango", " ARCore"],
+    "photoUrl": "https://pbs.twimg.com/profile_images/1154089364/illust2_bigger.gif",
+    "bio": "何をやっているかと言えば答えづらいですが、まあボチボチ生きています。",
+    "shortBio": "",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/ega1979",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/hirokazu.egashira",
+      "name": "Facebook"
+    }, {
+      "icon": "gplus",
+      "link": "https://plus.google.com/104730078177165835997",
+      "name": "Google"
+    }],
+    "featured": false
+  }, {
+    "id": 123,
+    "name": "高橋憲一",
+    "company": "株式会社カブク",
+    "companyLogoUrl": "",
+    "title": "Software Engineer",
+    "tags": ["Android", "Daydream", "ARCore", "Tango"],
+    "photoUrl": "https://avatars1.githubusercontent.com/u/1803457",
+    "bio": "カブクで3Dグラフィックスのレンダリングや解析エンジンの実装を担当するエンジニア。これまで携帯向けの3DグラフィックスエンジンやスマートフォンのARアプリ開発に携わってきました。Cardboardと出会って以来VRにも興味を持ち、もっぱら個人的活動として翻訳本を出すなどしています。",
+    "shortBio": "Z軸を触る仕事がないと寂しくなるエンジニア。\n最近はARやVR開発の翻訳本を出したりもしています。",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/ken1_taka",
+      "name": "Twitter"
+    }, {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/kenichitakahashi/",
+      "name": "LinkedIn"
+    }, {
+      "icon": "gplus",
+      "link": "https://plus.google.com/+KenichiTakahashi",
+      "name": "Google"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/ktaka",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }, {
+    "id": 124,
+    "name": "中川幸哉",
+    "company": "ウォーターセル株式会社",
+    "companyLogoUrl": "http://water-cell.jp/img/water_cell_logo-95009b88.png",
+    "title": "\"モバイルエンジニア\"",
+    "tags": ["Android", "React", "React Native", "JavaScript"],
+    "photoUrl": "https://avatars0.githubusercontent.com/u/434227?v=4\u0026s=460",
+    "bio": "新潟で農業者向けのアプリを作っている会社の人です。1児の父。本業はAndroidエンジニア。iOSアプリを作ることを強いられた際にCordovaに逃げたことをきっかけに、JSエンジニアにも片足突っ込んでいます。",
+    "shortBio": "新潟で農業者向けのアプリを作っている会社の人です。",
+    "country": "Japan",
+    "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/Nkzn",
+      "name": "Twitter"
+    }, {
+      "icon": "facebook",
+      "link": "https://www.facebook.com/yukiya.nakagawa",
+      "name": "Facebook"
+    }, {
+      "icon": "gplus",
+      "link": "https://plus.google.com/+YukiyaNakagawa",
+      "name": "Google"
+    }, {
+      "icon": "github",
+      "link": "https://github.com/Nkzn",
+      "name": "GitHub"
+    }],
+    "featured": false
+  }]
 }
