@@ -581,7 +581,7 @@
       "link": "https://github.com/tenntenn",
       "name": "GitHub"
     }],
-    "featured": false
+    "featured": true
   }, {
     "id": 106,
     "name": "太田 満久",
@@ -726,7 +726,7 @@
       "link": "https://github.com/soundTricker",
       "name": "GitHub"
     }],
-    "featured": false
+    "featured": true
   }, {
     "id": 112,
     "name": "sinmetal",
@@ -860,7 +860,7 @@
       "link": "https://www.facebook.com/asa.shiho",
       "name": "Facebook"
     }],
-    "featured": false
+    "featured": true
   }, {
     "id": 118,
     "name": "松木 雅幸",
@@ -998,7 +998,7 @@
       "link": "https://github.com/ktaka",
       "name": "GitHub"
     }],
-    "featured": false
+    "featured": true
   }, {
     "id": 124,
     "name": "中川幸哉",
