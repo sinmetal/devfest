@@ -1,7 +1,7 @@
 {
   "title": "GDG DevFest Tokyo 2017",
-  "description": "今年もDevFestの季節がやってきました！Android、VR, AR, Golang、Web、Cloud, 機械学習, コミュニティ活動に興味のあるみんな集まれ！",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, golang, tango, gcp, developers, web, cloud, androiddev",
+  "description": "今年もDevFestの季節がやってきました！Android, VR, AR, Golang、Web, Cloud, Firebase, 機械学習, TensorFlow, コミュニティ活動に興味のあるみんな集まれ！",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, golang, tango, gcp, tensorflow, machinelearning, developers, web, cloud, androiddev",
   "dates": "October 9, 2017",
   "locationAddressShort": "Tokyo, Japan",
   "motto": "Be a GDG. Be a Hero!",
@@ -101,7 +101,7 @@
   "teamPageText": "東京では、毎月数え切れないほどの勉強会が開催されていますが、イベントが重複したり会場を見つけるのが大変だったり、アクティブなコミュニティが多いゆえの悩みがあったりします。多くのデベロッパーがハッピーに情報を共有していくにはどうしたらよいのか？そして、新しく勉強会に来たいと思っている人や他のプロダクトについて勉強したいと思っている人へ提供できるものは何か？そんなことを考え、東京の14のコミュニティが結集し、このDevFestのオーガナイザーは成り立っています。",
   "statistics": [
     {
-      "counter": 900,
+      "counter": 1000,
       "caption": "Attendees"
     },
     {
