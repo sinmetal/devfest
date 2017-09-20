@@ -1,7 +1,7 @@
 {
   "title": "GDG DevFest Tokyo 2017",
-  "description": "今年もDevFestの季節がやってきました！Android、VR, AR, Golang、Web、Cloud, 機械学習, コミュニティ活動に興味のあるみんな集まれ！",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, golang, tango, gcp, developers, web, cloud, androiddev",
+  "description": "今年もDevFestの季節がやってきました！Android, VR, AR, Golang、Web, Cloud, Firebase, 機械学習, TensorFlow, コミュニティ活動に興味のあるみんな集まれ！",
+  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, golang, tango, gcp, tensorflow, machinelearning, developers, web, cloud, androiddev",
   "dates": "October 9, 2017",
   "locationAddressShort": "Tokyo, Japan",
   "motto": "Be a GDG. Be a Hero!",
