@@ -60,7 +60,7 @@
       {
         "endTime": "12:10",
         "sessions": [
-          [104], [999], [999], [101], [119], [120]
+          [104], [999], [126], [101], [119], [120]
         ],
         "startTime": "11:30"
       },
@@ -191,7 +191,7 @@
       "id": 104,
       "title": "GCPではじめるかんたん機械学習",
       "description": "機械学習ってすごそうだけど何からやったらいいかわからない！GCPなら、知識がなくても簡単に使えるAPIだけじゃなく、色々つなげてアプリにするのも簡単なんです！そんなエンジニア目線の機械学習の初め方＆使い方を紹介します。",
-      "tags": ["Google Cloud Platform", "Machine Learning", "TensorFlow", "Firebase"],
+      "tags": [ "TensorFlow", "Google Cloud Platform", "Machine Learning","Firebase"],
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
@@ -235,7 +235,7 @@
       "id": 108,
       "title": "BlockChain on Go",
       "description": "Goの応用ケースは、主にAPIやモバイル開発だと思いますが、中でも最近注目テーマとして、ブロックチェーンが挙げられると思います。当日は概要を交えつつ、実際にブロックチェーンのライブラリやプロジェクトの紹介を行おうと思います。",
-      "tags": ["BlockChain", " Go", " API"],
+      "tags": ["Go", "BlockChain", " API"],
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
@@ -246,7 +246,7 @@
       "id": 109,
       "title": "体育会系女Androidエンジニアが会社の面接を突破する技術",
       "description": "",
-      "tags": ["droid girls", " GTUG Girls", " Android"],
+      "tags": ["Android", "droid girls", " GTUG Girls"],
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
@@ -268,7 +268,7 @@
       "id": 111,
       "title": "Android ThingsとGCPで始まる何か",
       "description": "Android ThingsとGCPを利用して何ができるかを話します。",
-      "tags": ["AndroidThings", " Google Cloud Platform"],
+      "tags": ["Google Cloud Platform", "AndroidThings"],
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
@@ -301,7 +301,7 @@
       "id": 114,
       "title": "FirebaseAnalytics + BigQuery + DataStudio",
       "description": "Firebaseの技術的視点というよりは、そこで得られた行動データをどのように使うことが出来るかを紹介します！",
-      "tags": ["BigData", "BigQuery", "Analytics", "Google Cloud Platform"],
+      "tags": ["Google Cloud Platform", "BigData", "BigQuery", "Analytics"],
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
@@ -338,7 +338,7 @@
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
-      "speakers": [117],
+      "speakers": [117,127],
       "complecity": "Beginner"
     },
     "119": {
@@ -416,6 +416,17 @@
       "language": "Japanese",
       "presentation": "",
       "speakers": [112,111],
+      "complecity": "Beginner"
+    },
+    "126": {
+      "id": 126,
+      "title": "大半のウェブサービス/アプリは，Firebaseなら簡単で安いですよ",
+      "description": "【対象：開発者初級（〜中上級）から中間職，経営者まで】\nコードや黒画面を使わずに，なるべくわかりやすくFirebaseのメリット・デメリット・コストなどを解説します．\n一部込み入った内容や変わった視点も予定しているので，中上級なおともだちも冷やかしついでにぜひどうぞ．",
+      "tags": ["Firebase", "JavaScript", "Android", "iOS", "PC", "mBaaS", "Google Cloud Platform"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [126],
       "complecity": "Beginner"
     }
   },
@@ -993,7 +1004,7 @@
 		"company": "Retty",
 		"companyLogoUrl": "https://retty.me/images/index/logo.png",
 		"title": "ソフトウェアエンジニア",
-		"tags": ["Google Cloud Platform", "AWS", "Python", "Scala", "Hadoop", "Spark", "Machine Learning"],
+		"tags": ["Google Cloud Platform", "Amazon Web Services", "Python", "Scala", "Hadoop", "Spark", "Machine Learning"],
 		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/chie8842.png",
 		"bio": "大学では、音声合成の研究に従事し、新卒でSI企業に入社。\nインフラエンジニアとしてNWからAP基盤まで幅広く開発を行った後、HadoopやSparkを用いた並列分散処理や機械学習を用いた開発やサポートに従事する。\nその後Retty.Incにジョインし、AWSとGCPにまたがる分析基盤構築に携わる。\nプライベートでは好きなOSSにコミットしたり、arXivの論文を読んだりしている。\n9月に行われたPyConJP2017ではPySparkについて登壇を行った。",
 		"shortBio": "某SI企業からWeb企業に転身したソフトウェアエンジニア。最近はAWSとGCPにまたがる分析基盤構築に携わる。\n9月に行われたPyConJP2017ではPySparkについて登壇を行った。",
