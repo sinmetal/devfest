@@ -60,35 +60,35 @@
       {
         "endTime": "12:10",
         "sessions": [
-          [104], [999], [126], [101], [119], [120]
+          [104], [991], [126], [101], [119], [120]
         ],
         "startTime": "11:30"
       },
       {
         "endTime": "14:00",
         "sessions": [
-          [125], [999], [122], [999], [102], [999]
+          [125], [991], [122], [993], [102], [995]
         ],
         "startTime": "13:20"
       },
       {
         "endTime": "14:50",
         "sessions": [
-          [999], [106], [121], [113], [999], [999]
+          [999], [106], [121], [113], [994], [995]
         ],
         "startTime": "14:10"
       },
       {
         "endTime": "15:40",
         "sessions": [
-          [116], [123], [999], [114], [107], [999]
+          [116], [123], [992], [114], [107], [995]
         ],
         "startTime": "15:00"
       },
       {
         "endTime": "16:30",
         "sessions": [
-          [124], [999], [105], [111], [117], [999]
+          [124], [991], [105], [111], [117], [995]
         ],
         "startTime": "15:50"
       },
@@ -123,6 +123,61 @@
   "sessions": {
     "999": {
       "id": 999,
+      "title": "Coming Soon",
+      "description": "Coming Soon",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "991": {
+      "id": 991,
+      "title": "Coming Soon",
+      "description": "Coming Soon",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "992": {
+      "id": 992,
+      "title": "Coming Soon",
+      "description": "Coming Soon",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "993": {
+      "id": 993,
+      "title": "Coming Soon",
+      "description": "Coming Soon",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "994": {
+      "id": 994,
+      "title": "Coming Soon",
+      "description": "Coming Soon",
+      "tags": ["General"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [],
+      "complecity": "Beginner"
+    },
+    "995": {
+      "id": 995,
       "title": "Coming Soon",
       "description": "Coming Soon",
       "tags": ["General"],
