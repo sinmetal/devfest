@@ -962,5 +962,51 @@
       "name": "GitHub"
     }],
     "featured": false
-  }]
+  }, {
+		"id": 126,
+		"name": "神楽坂やちま",
+		"company": "株式会社みんコレ",
+		"companyLogoUrl": "https://minkore.funa.in.net/",
+		"title": "CTOっぽいやつ",
+		"tags": ["Firebase", "Javascript", "mBaaS", "Google Cloud Platform"],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/Yatima_K.jpeg",
+		"bio": "",
+		"shortBio": "たたくと　ねこの　おとが　するぞ（つよそう）",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/Yatima_K",
+			"name": "Twitter"
+		}, {
+			"icon": "facebook",
+			"link": "https://www.facebook.com/yatima.kagurazaka",
+			"name": "Facebook"
+		}, {
+			"icon": "gplus",
+			"link": "https://plus.google.com/+YatimaKagurazaka",
+			"name": "Google"
+		}],
+		"featured": false
+	}, {
+		"id": 127,
+		"name": "林田千瑛（chie hayashida）",
+		"company": "Retty",
+		"companyLogoUrl": "https://retty.me/images/index/logo.png",
+		"title": "ソフトウェアエンジニア",
+		"tags": ["Google Cloud Platform", "AWS", "Python", "Scala", "Hadoop", "Spark", "Machine Learning"],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/chie8842.png",
+		"bio": "大学では、音声合成の研究に従事し、新卒でSI企業に入社。\nインフラエンジニアとしてNWからAP基盤まで幅広く開発を行った後、HadoopやSparkを用いた並列分散処理や機械学習を用いた開発やサポートに従事する。\nその後Retty.Incにジョインし、AWSとGCPにまたがる分析基盤構築に携わる。\nプライベートでは好きなOSSにコミットしたり、arXivの論文を読んだりしている。\n9月に行われたPyConJP2017ではPySparkについて登壇を行った。",
+		"shortBio": "某SI企業からWeb企業に転身したソフトウェアエンジニア。最近はAWSとGCPにまたがる分析基盤構築に携わる。\n9月に行われたPyConJP2017ではPySparkについて登壇を行った。",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/chie8842",
+			"name": "Twitter"
+		}, {
+			"icon": "facebook",
+			"link": "https://www.facebook.com/chie.hayashida",
+			"name": "Facebook"
+		}],
+		"featured": false
+	}]
 }
