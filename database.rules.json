@@ -1,18 +1,18 @@
 {
   "rules": {
-    ".read": true,
-    ".write": false,
+    "users": {
+      "$uid": {
+        ".read": "auth.uid === $uid",
+        ".write": "auth.uid === $uid"
+      }
+    },
     "ratings": {
-      ".read": false,
-      ".write": false,
       "$uid": {
         ".read": "auth.uid === $uid",
         ".write": "auth.uid === $uid"
       }
     },
     "userSessions": {
-      ".read": false,
-      ".write": false,
       "$uid": {
         ".read": "auth.uid === $uid",
         ".write": "auth.uid === $uid"
@@ -21,6 +21,22 @@
     "speakers": {
       ".read": true,
       ".write": "root.child('users').child(auth.uid).child('rules').child('speakers').val() === true"
+    },
+    "partners": {
+      ".read": true,
+      ".write": false
+    },
+    "schedule": {
+      ".read": true,
+      ".write": false
+    },
+    "sessions": {
+      ".read": true,
+      ".write": false
+    },
+    "team": {
+      ".read": true,
+      ".write": false
     }
   }
 }
