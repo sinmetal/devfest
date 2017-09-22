@@ -1,11 +1,11 @@
 [
   {
-    "id": "nursery",
+    "id": "start",
     "title": "DevFest Tokyo 2017を開催します！",
-    "posted": "2017-09-30",
+    "posted": "2017-09-22",
     "primaryColor": "#5a7785",
     "secondaryColor": "#455a64",
     "image": "/images/posts/summary.jpg",
-    "brief": "DevFest Tokyo 2017を開催します！"
+    "brief": "今年もDevFestの季節がやってきました！Android, VR, AR, Golang, Web, Cloud, Firebase, 機械学習, TensorFlow, コミュニティ活動に興味のあるみんな集まれ！"
   }
 ]
