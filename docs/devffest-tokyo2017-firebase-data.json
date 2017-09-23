@@ -415,7 +415,7 @@
       "id": 108,
       "title": "BlockChain on Go",
       "description": "Goの応用ケースは、主にAPIやモバイル開発だと思いますが、中でも最近注目テーマとして、ブロックチェーンが挙げられると思います。当日は概要を交えつつ、実際にブロックチェーンのライブラリやプロジェクトの紹介を行おうと思います。",
-      "tags": ["Go", "BlockChain", " API"],
+      "tags": ["Go", "BlockChain", "API"],
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
@@ -424,13 +424,13 @@
     },
     "109": {
       "id": 109,
-      "title": "体育会系女Androidエンジニアが会社の面接を突破する技術",
-      "description": "",
-      "tags": ["Android", "droid girls", " GTUG Girls"],
+      "title": "droid girlsによるAndroidセッション",
+      "description": "このセッションは4人のdroid girlsによるセッションです。体育会系女Androidエンジニアが会社の面接を突破する技術, 逆転裁判を愛して止まないKorean droid girlがSHOPLISTのアプリを改善しちゃった話",
+      "tags": ["Android", "droid girls", "GTUG Girls"],
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
-      "speakers": [109],
+      "speakers": [109, 131],
       "complecity": "Beginner"
     },
     "110": {
@@ -640,17 +640,6 @@
       "language": "Japanese",
       "presentation": "",
       "speakers": [130],
-      "complecity": "Beginner"
-    },
-    "131": {
-      "id": 131,
-      "title": "逆転裁判を愛して止まないKorean droid girlがSHOPLISTのアプリを改善しちゃった話",
-      "description": "",
-      "tags": ["Android"],
-      "slideUrl": "",
-      "language": "Japanese",
-      "presentation": "",
-      "speakers": [131],
       "complecity": "Beginner"
     }
   },
