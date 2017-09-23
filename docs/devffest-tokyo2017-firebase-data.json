@@ -18,28 +18,153 @@
       "title": "託児所スポンサー"
     }
   ],
-  "team": [
-    {
-      "members": [
-        {
-          "name": "GCPUG",
-          "photoUrl": "https://gcpug.jp/images/logo_box.png",
-          "socials": [
-            {
-              "icon": "website",
-              "link": "http://gcpug.jp/",
-              "name": "Web Site"
-            }
-          ],
-          "title": " "
-        },
-        {
-          "name": "日本Androidの会"
-        }
-      ],
-      "title": "参加コミュニティ"
-    }
-  ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "GCPUG",
+      "photoUrl" : "/images/communities/GCPUG-12.jpg",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://gcpug.jp",
+        "name" : "Web Site"
+      }, {
+        "icon" : "slack",
+        "link" : "https://docs.google.com/forms/d/1Pe2idyW79_GsYPHkON_oulC7hfzszzwWORbOi6q46uI/viewform",
+        "name" : "Slack"
+      } ],
+      "title" : "Google Cloud Platform の User Group、略してGCPUGです。"
+    }, {
+      "name" : "Geek Women Japan",
+      "photoUrl" : "/images/communities/geek-women-japan.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "http://geekwomenjapan.github.io/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/geekwomenjapan",
+        "name" : "Twitter"
+      } ],
+      "title" : "女性エンジニアの集まる カンファレンスイベント運営団体です。"
+    }, {
+      "name" : "日本Androidの会",
+      "photoUrl" : "/images/communities/japan-android-group.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://www.android-group.jp",
+        "name" : "Web Site"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://facebook.com/JapanAndroidGroup",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/androidgroup_jp",
+        "name" : "Twitter"
+      } ],
+      "title" : "Android技術の普及促進を行う、全国36支部、10の部/WGからなる、誰でも参加できるユーザコミュニティー"
+    }, {
+      "name" : "TFUG",
+      "photoUrl" : "/images/communities/tfug.png",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/groups/178559235921208/",
+        "name" : "Facebook"
+      } ],
+      "title" : "TensorFlow の User Group、略してTFUGです。MLやDL、TFの話題でワイワイしています。"
+    }, {
+      "name" : "golang.tokyo",
+      "photoUrl" : "/images/communities/golang-tokyo.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://golangtokyo.connpass.com",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/golangtokyo",
+        "name" : "Twitter"
+      } ],
+      "title" : " プログラミング言語のGoの導入企業のメンバーが集まり、Goの普及を推進するコミュニティです。"
+    }, {
+      "name" : "shibuya.apk",
+      "photoUrl" : "/images/communities/shibuya-apk.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://shibuya-apk.connpass.com/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/shibuya_apk",
+        "name" : "Twitter"
+      } ],
+      "title" : "shibuya.apkは渋谷を中心に活動するAndroidアプリ開発者コミュニティです。"
+    }, {
+      "name" : "droid girls",
+      "photoUrl" : "/images/communities/droid-girls.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/droidgirlsjapan",
+        "name" : "Twitter"
+      } ],
+      "title" : " droid girlsはAndroid開発に興味がある女性のためのコミュニティです。 "
+    }, {
+      "name" : "ARCore(Tango) Working Group",
+      "photoUrl" : "/images/communities/ARCore.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://plus.google.com/communities/117782112124490967221",
+        "name" : "Web Site"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "DroidKaigi",
+      "photoUrl" : "/images/communities/droidkaigi.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://droidkaigi.jp/2018/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/DroidKaigi/",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/droidkaigi",
+        "name" : "Twitter"
+      } ],
+      "title" : "DroidKaigiはエンジニアが主役のAndroidカンファレンスです。2018年2月8日(木)、9日(金)の2日開催です。セッション募集中！"
+    }, {
+      "name" : "GTUG Girls",
+      "photoUrl" : "/images/communities/gtug-girls-small.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "http://www.gtuggirls.jp",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/gtuggirls",
+        "name" : "Twitter"
+      } ],
+      "title" : "GTUG Girls は女性のテクノロジーコミュニティです。"
+    }, {
+      "name" : "Women Who Go Tokyo",
+      "photoUrl" : "/images/communities/wwg.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://womenwhogo-tokyo.connpass.com/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/wwg_tokyo",
+        "name" : "Twitter"
+      }, {
+        "icon" : "slack",
+        "link" : "https://docs.google.com/forms/d/1bQTM8FWjgr0D5wH1Hqbsiouf7E-hTuZx5XPm7TFE21E/edit",
+        "name" : "Slack"
+      } ],
+      "title" : "Go言語を学ぶ女性コミュニティです。"
+    } ],
+    "title" : "参加コミュニティ"
+  } ],
   "schedule": [{
     "date": "2017-10-09",
     "dateReadable": "October 9 Session",
@@ -53,7 +178,7 @@
       {
         "endTime": "11:20",
         "sessions": [
-          [999], [115], [108], [112], [109], [110]
+          [129], [115], [108], [112], [109], [110]
         ],
         "startTime": "10:40"
       },
@@ -67,7 +192,7 @@
       {
         "endTime": "14:00",
         "sessions": [
-          [125], [991], [122], [993], [102], [995]
+          [125], [128], [122], [993], [102], [995]
         ],
         "startTime": "13:20"
       },
@@ -483,6 +608,50 @@
       "presentation": "",
       "speakers": [126],
       "complecity": "Beginner"
+    },
+    "128": {
+      "id": 128,
+      "title": "FirebaseとReact Nativeでのモバイルアプリの作り方",
+      "description": "このセッションではReact NativeをベースにFirebaseの機能を網羅的に紹介します。\n\n対象:\n* Firebaseに興味がある人\n* React Nativeに興味がある人\n\nFirebaseはモバイルアプリ向けのバックエンドサービスです。\nWebのSDKもありますがその機能を十全に使うことはできません。\nそこでReact Nativeを利用することでJavaScriptで開発ができつつFirebaseのネイティブアプリ用の機能も利用ができます。\n",
+      "tags": ["Firebase", "ReactNative", "JavaScript", "Android", "iOS"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [128],
+      "complecity": "Beginner"
+    },
+    "129": {
+      "id": 129,
+      "title": "TBD",
+      "description": "",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [129],
+      "complecity": "Beginner"
+    },
+    "130": {
+      "id": 130,
+      "title": "Android1.5~8.0 Walkthrough",
+      "description": "",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [130],
+      "complecity": "Beginner"
+    },
+    "131": {
+      "id": 131,
+      "title": "逆転裁判を愛して止まないKorean droid girlがSHOPLISTのアプリを改善しちゃった話",
+      "description": "",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [131],
+      "complecity": "Beginner"
     }
   },
   "speakers": [{
@@ -507,40 +676,40 @@
     }],
     "featured": false
   }, {
-    "id": 102,
-    "name": "momo",
-    "company": "Women Who Go Tokyo ",
-    "companyLogoUrl": "https://womenwhogo-tokyo.connpass.com/",
-    "title": "",
-    "tags": ["Go"],
-    "photoUrl": "",
-    "bio": "",
-    "shortBio": "",
-    "country": "Japan",
-    "socials": [{
-      "icon": "twitter",
-      "link": "https://twitter.com/mom0tomo",
-      "name": "Twitter"
-    }],
-    "featured": false
-  }, {
-    "id": 103,
-    "name": "micchie",
-    "company": "Women Who Go Tokyo",
-    "companyLogoUrl": "https://womenwhogo-tokyo.connpass.com/",
-    "title": "",
-    "tags": ["Go"],
-    "photoUrl": "",
-    "bio": "",
-    "shortBio": "",
-    "country": "Japan",
-    "socials": [{
-      "icon": "twitter",
-      "link": "https://twitter.com/micchiebear",
-      "name": "Twitter"
-    }],
-    "featured": false
-  }, {
+		"id": 102,
+		"name": "渡辺 もも",
+		"company": "ディップ株式会社",
+		"companyLogoUrl": "https://www.dip-net.co.jp/",
+		"title": "エンジニア",
+		"tags": ["Go"],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/momotomo.png",
+		"bio": "",
+		"shortBio": "",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/mom0tomo",
+			"name": "Twitter"
+		}],
+		"featured": false
+	}, {
+		"id": 103,
+		"name": "白川 みちる",
+		"company": "ディップ株式会社",
+		"companyLogoUrl": "https://www.dip-net.co.jp/",
+		"title": "",
+		"tags": ["Go"],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/micchie-twitter.png",
+		"bio": "",
+		"shortBio": "",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/micchiebear",
+			"name": "Twitter"
+		}],
+		"featured": false
+	}, {
     "id": 104,
     "name": "吉川 隼人",
     "company": "",
@@ -1074,5 +1243,93 @@
 			"name": "Facebook"
 		}],
 		"featured": false
-	}]
+  }, {
+		"id": 128,
+		"name": "コキチーズ",
+		"company": "",
+		"companyLogoUrl": "",
+		"title": "",
+		"tags": ["Firebase", "GCP", "GoogleAppEngine", "JavaScript", "Vue.js", "Android", "Security"],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/k2wanko.png",
+		"bio": "FirebaseとGoとJavaScriptとGoogle App Engineと寿司と肉が好きなEngineer\n最近はReact Nativeも好きです。\n好きなFirebaseのサービスはFirebase Authenticationです。",
+		"shortBio": "FirebaseとGoとGoogle App Engineが好きなEngineer",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/k2wanko",
+			"name": "Twitter"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/k2wanko",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}, {
+		"id": 129,
+		"name": "Keishin Yokomaku",
+		"company": "Drivemode, Inc.",
+		"companyLogoUrl": "https://drivemode.com/images/drivemode-logo-color.svg",
+		"title": "Principal Engineer",
+		"tags": ["Android"],
+		"photoUrl": "https://ja.gravatar.com/userimage/24947017/df4df9eae03eb923c4a4455db30c0b03.jpeg?size=200",
+		"bio": "Android Engineer at Drivemode, Inc.\nCyclist (loves hillclimbing and randonneuring), Gymnast, Photographer.\nLoving watching cycling race, motorsport, and gymnastics competition.\n\nSun Certified Java Programmer.\nJava/Kotlin/Perl/CoffeeScript/Node.js/Docker",
+		"shortBio": "Android Engineer/Cyclist/Gymnast/Photographer",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/KeithYokoma/",
+			"name": "Twitter"
+		}, {
+			"icon": "facebook",
+			"link": "https://www.facebook.com/KeithYokoma",
+			"name": "Facebook"
+		}, {
+			"icon": "gplus",
+			"link": "https://plus.google.com/u/1/+%E6%A8%AA%E5%B9%95%E5%9C%AD%E7%9C%9F",
+			"name": "Google"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/KeithYokoma",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}, {
+		"id": 130,
+		"name": "松村勇輝",
+		"company": "株式会社AbemaTV",
+		"companyLogoUrl": "https://drive.google.com/file/d/0B8pWIlmE61MOMWJLMjREdXNmek0/view?usp=sharing",
+		"title": "Androidエンジニア",
+		"tags": ["Android"],
+		"photoUrl": "https://pbs.twimg.com/profile_images/689458956561821698/TI6lmlqX_400x400.jpg",
+		"bio": "AbemaTVのAndroidアプリエンジニア。ブログ\"Yukiの枝折\"を運営しています。",
+		"shortBio": "AbemaTVのAndroidエンジニアとして奮闘中",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/yuki_312",
+			"name": "Twitter"
+		}, {
+			"icon": "gplus",
+			"link": "https://plus.google.com/u/0/+%E6%9D%BE%E6%9D%91%E5%8B%87%E8%BC%9D",
+			"name": "Google"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/YukiMatsumura",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}, {
+		"id": 131,
+		"name": "イ ボギョン",
+		"company": "クルーズ株式会社",
+		"companyLogoUrl": "",
+		"title": "Androidエンジニア",
+		"tags": ["Android"],
+		"photoUrl": "",
+		"bio": "",
+		"shortBio": "逆転裁判に憧れ、韓国から来ました！\n現在クルーズ株式会社でAndroidエンジニアをしております。",
+		"country": "Korea",
+		"socials": null,
+		"featured": false
+  }]
 }
