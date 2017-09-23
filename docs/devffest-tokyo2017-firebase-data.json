@@ -18,28 +18,153 @@
       "title": "託児所スポンサー"
     }
   ],
-  "team": [
-    {
-      "members": [
-        {
-          "name": "GCPUG",
-          "photoUrl": "https://gcpug.jp/images/logo_box.png",
-          "socials": [
-            {
-              "icon": "website",
-              "link": "http://gcpug.jp/",
-              "name": "Web Site"
-            }
-          ],
-          "title": " "
-        },
-        {
-          "name": "日本Androidの会"
-        }
-      ],
-      "title": "参加コミュニティ"
-    }
-  ],
+  "team" : [ {
+    "members" : [ {
+      "name" : "GCPUG",
+      "photoUrl" : "/images/communities/GCPUG-12.jpg",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://gcpug.jp",
+        "name" : "Web Site"
+      }, {
+        "icon" : "slack",
+        "link" : "https://docs.google.com/forms/d/1Pe2idyW79_GsYPHkON_oulC7hfzszzwWORbOi6q46uI/viewform",
+        "name" : "Slack"
+      } ],
+      "title" : "Google Cloud Platform の User Group、略してGCPUGです。"
+    }, {
+      "name" : "Geek Women Japan",
+      "photoUrl" : "/images/communities/geek-women-japan.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "http://geekwomenjapan.github.io/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/geekwomenjapan",
+        "name" : "Twitter"
+      } ],
+      "title" : "女性エンジニアの集まる カンファレンスイベント運営団体です。"
+    }, {
+      "name" : "日本Androidの会",
+      "photoUrl" : "/images/communities/japan-android-group.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://www.android-group.jp",
+        "name" : "Web Site"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://facebook.com/JapanAndroidGroup",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/androidgroup_jp",
+        "name" : "Twitter"
+      } ],
+      "title" : "Android技術の普及促進を行う、全国36支部、10の部/WGからなる、誰でも参加できるユーザコミュニティー"
+    }, {
+      "name" : "TFUG",
+      "photoUrl" : "/images/communities/tfug.png",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/groups/178559235921208/",
+        "name" : "Facebook"
+      } ],
+      "title" : "TensorFlow の User Group、略してTFUGです。MLやDL、TFの話題でワイワイしています。"
+    }, {
+      "name" : "golang.tokyo",
+      "photoUrl" : "/images/communities/golang-tokyo.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://golangtokyo.connpass.com",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/golangtokyo",
+        "name" : "Twitter"
+      } ],
+      "title" : " プログラミング言語のGoの導入企業のメンバーが集まり、Goの普及を推進するコミュニティです。"
+    }, {
+      "name" : "shibuya.apk",
+      "photoUrl" : "/images/communities/shibuya-apk.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://shibuya-apk.connpass.com/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/shibuya_apk",
+        "name" : "Twitter"
+      } ],
+      "title" : "shibuya.apkは渋谷を中心に活動するAndroidアプリ開発者コミュニティです。"
+    }, {
+      "name" : "droid girls",
+      "photoUrl" : "/images/communities/droid-girls.png",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/droidgirlsjapan",
+        "name" : "Twitter"
+      } ],
+      "title" : " droid girlsはAndroid開発に興味がある女性のためのコミュニティです。 "
+    }, {
+      "name" : "ARCore(Tango) Working Group",
+      "photoUrl" : "/images/communities/ARCore.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://plus.google.com/communities/117782112124490967221",
+        "name" : "Web Site"
+      } ],
+      "title" : ""
+    }, {
+      "name" : "DroidKaigi",
+      "photoUrl" : "/images/communities/droidkaigi.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://droidkaigi.jp/2018/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/DroidKaigi/",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/droidkaigi",
+        "name" : "Twitter"
+      } ],
+      "title" : "DroidKaigiはエンジニアが主役のAndroidカンファレンスです。2018年2月8日(木)、9日(金)の2日開催です。セッション募集中！"
+    }, {
+      "name" : "GTUG Girls",
+      "photoUrl" : "/images/communities/gtug-girls-small.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "http://www.gtuggirls.jp",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/gtuggirls",
+        "name" : "Twitter"
+      } ],
+      "title" : "GTUG Girls は女性のテクノロジーコミュニティです。"
+    }, {
+      "name" : "Women Who Go Tokyo",
+      "photoUrl" : "/images/communities/wwg.png",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://womenwhogo-tokyo.connpass.com/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/wwg_tokyo",
+        "name" : "Twitter"
+      }, {
+        "icon" : "slack",
+        "link" : "https://docs.google.com/forms/d/1bQTM8FWjgr0D5wH1Hqbsiouf7E-hTuZx5XPm7TFE21E/edit",
+        "name" : "Slack"
+      } ],
+      "title" : "Go言語を学ぶ女性コミュニティです。"
+    } ],
+    "title" : "参加コミュニティ"
+  } ],
   "schedule": [{
     "date": "2017-10-09",
     "dateReadable": "October 9 Session",
@@ -1125,7 +1250,7 @@
 		"companyLogoUrl": "",
 		"title": "",
 		"tags": ["Firebase", "GCP", "GoogleAppEngine", "JavaScript", "Vue.js", "Android", "Security"],
-		"photoUrl": "https://drive.google.com/file/d/0B2YleY6RHilQMDJYSzMxYXFvbk0/view?usp=sharing",
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/k2wanko.png",
 		"bio": "FirebaseとGoとJavaScriptとGoogle App Engineと寿司と肉が好きなEngineer\n最近はReact Nativeも好きです。\n好きなFirebaseのサービスはFirebase Authenticationです。",
 		"shortBio": "FirebaseとGoとGoogle App Engineが好きなEngineer",
 		"country": "Japan",
@@ -1206,5 +1331,5 @@
 		"country": "Korea",
 		"socials": null,
 		"featured": false
-	}]
+  }]
 }
