@@ -53,7 +53,7 @@
       {
         "endTime": "11:20",
         "sessions": [
-          [999], [115], [108], [112], [109], [110]
+          [129], [115], [108], [112], [109], [110]
         ],
         "startTime": "10:40"
       },
@@ -67,7 +67,7 @@
       {
         "endTime": "14:00",
         "sessions": [
-          [125], [991], [122], [993], [102], [995]
+          [125], [128], [122], [993], [102], [995]
         ],
         "startTime": "13:20"
       },
@@ -482,6 +482,50 @@
       "language": "Japanese",
       "presentation": "",
       "speakers": [126],
+      "complecity": "Beginner"
+    },
+    "128": {
+      "id": 128,
+      "title": "FirebaseとReact Nativeでのモバイルアプリの作り方",
+      "description": "このセッションではReact NativeをベースにFirebaseの機能を網羅的に紹介します。\n\n対象:\n* Firebaseに興味がある人\n* React Nativeに興味がある人\n\nFirebaseはモバイルアプリ向けのバックエンドサービスです。\nWebのSDKもありますがその機能を十全に使うことはできません。\nそこでReact Nativeを利用することでJavaScriptで開発ができつつFirebaseのネイティブアプリ用の機能も利用ができます。\n",
+      "tags": ["Firebase", "ReactNative", "JavaScript", "Android", "iOS"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [128],
+      "complecity": "Beginner"
+    },
+    "129": {
+      "id": 129,
+      "title": "TBD",
+      "description": "",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [129],
+      "complecity": "Beginner"
+    },
+    "130": {
+      "id": 130,
+      "title": "Android1.5~8.0 Walkthrough",
+      "description": "",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [130],
+      "complecity": "Beginner"
+    },
+    "131": {
+      "id": 131,
+      "title": "逆転裁判を愛して止まないKorean droid girlがSHOPLISTのアプリを改善しちゃった話",
+      "description": "",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [131],
       "complecity": "Beginner"
     }
   },
