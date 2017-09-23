@@ -507,40 +507,40 @@
     }],
     "featured": false
   }, {
-    "id": 102,
-    "name": "momo",
-    "company": "Women Who Go Tokyo ",
-    "companyLogoUrl": "https://womenwhogo-tokyo.connpass.com/",
-    "title": "",
-    "tags": ["Go"],
-    "photoUrl": "",
-    "bio": "",
-    "shortBio": "",
-    "country": "Japan",
-    "socials": [{
-      "icon": "twitter",
-      "link": "https://twitter.com/mom0tomo",
-      "name": "Twitter"
-    }],
-    "featured": false
-  }, {
-    "id": 103,
-    "name": "micchie",
-    "company": "Women Who Go Tokyo",
-    "companyLogoUrl": "https://womenwhogo-tokyo.connpass.com/",
-    "title": "",
-    "tags": ["Go"],
-    "photoUrl": "",
-    "bio": "",
-    "shortBio": "",
-    "country": "Japan",
-    "socials": [{
-      "icon": "twitter",
-      "link": "https://twitter.com/micchiebear",
-      "name": "Twitter"
-    }],
-    "featured": false
-  }, {
+		"id": 102,
+		"name": "渡辺 もも",
+		"company": "ディップ株式会社",
+		"companyLogoUrl": "https://www.dip-net.co.jp/",
+		"title": "エンジニア",
+		"tags": ["Go"],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/momotomo.png",
+		"bio": "",
+		"shortBio": "",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/mom0tomo",
+			"name": "Twitter"
+		}],
+		"featured": false
+	}, {
+		"id": 103,
+		"name": "白川 みちる",
+		"company": "ディップ株式会社",
+		"companyLogoUrl": "https://www.dip-net.co.jp/",
+		"title": "",
+		"tags": ["Go"],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/micchie-twitter.png",
+		"bio": "",
+		"shortBio": "",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/micchiebear",
+			"name": "Twitter"
+		}],
+		"featured": false
+	}, {
     "id": 104,
     "name": "吉川 隼人",
     "company": "",
@@ -1073,6 +1073,94 @@
 			"link": "https://www.facebook.com/chie.hayashida",
 			"name": "Facebook"
 		}],
+		"featured": false
+  }, {
+		"id": 128,
+		"name": "コキチーズ",
+		"company": "",
+		"companyLogoUrl": "",
+		"title": "",
+		"tags": ["Firebase", "GCP", "GoogleAppEngine", "JavaScript", "Vue.js", "Android", "Security"],
+		"photoUrl": "https://drive.google.com/file/d/0B2YleY6RHilQMDJYSzMxYXFvbk0/view?usp=sharing",
+		"bio": "FirebaseとGoとJavaScriptとGoogle App Engineと寿司と肉が好きなEngineer\n最近はReact Nativeも好きです。\n好きなFirebaseのサービスはFirebase Authenticationです。",
+		"shortBio": "FirebaseとGoとGoogle App Engineが好きなEngineer",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/k2wanko",
+			"name": "Twitter"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/k2wanko",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}, {
+		"id": 129,
+		"name": "Keishin Yokomaku",
+		"company": "Drivemode, Inc.",
+		"companyLogoUrl": "https://drivemode.com/images/drivemode-logo-color.svg",
+		"title": "Principal Engineer",
+		"tags": ["Android"],
+		"photoUrl": "https://ja.gravatar.com/userimage/24947017/df4df9eae03eb923c4a4455db30c0b03.jpeg?size=200",
+		"bio": "Android Engineer at Drivemode, Inc.\nCyclist (loves hillclimbing and randonneuring), Gymnast, Photographer.\nLoving watching cycling race, motorsport, and gymnastics competition.\n\nSun Certified Java Programmer.\nJava/Kotlin/Perl/CoffeeScript/Node.js/Docker",
+		"shortBio": "Android Engineer/Cyclist/Gymnast/Photographer",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/KeithYokoma/",
+			"name": "Twitter"
+		}, {
+			"icon": "facebook",
+			"link": "https://www.facebook.com/KeithYokoma",
+			"name": "Facebook"
+		}, {
+			"icon": "gplus",
+			"link": "https://plus.google.com/u/1/+%E6%A8%AA%E5%B9%95%E5%9C%AD%E7%9C%9F",
+			"name": "Google"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/KeithYokoma",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}, {
+		"id": 130,
+		"name": "松村勇輝",
+		"company": "株式会社AbemaTV",
+		"companyLogoUrl": "https://drive.google.com/file/d/0B8pWIlmE61MOMWJLMjREdXNmek0/view?usp=sharing",
+		"title": "Androidエンジニア",
+		"tags": ["Android"],
+		"photoUrl": "https://pbs.twimg.com/profile_images/689458956561821698/TI6lmlqX_400x400.jpg",
+		"bio": "AbemaTVのAndroidアプリエンジニア。ブログ\"Yukiの枝折\"を運営しています。",
+		"shortBio": "AbemaTVのAndroidエンジニアとして奮闘中",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/yuki_312",
+			"name": "Twitter"
+		}, {
+			"icon": "gplus",
+			"link": "https://plus.google.com/u/0/+%E6%9D%BE%E6%9D%91%E5%8B%87%E8%BC%9D",
+			"name": "Google"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/YukiMatsumura",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}, {
+		"id": 131,
+		"name": "イ ボギョン",
+		"company": "クルーズ株式会社",
+		"companyLogoUrl": "",
+		"title": "Androidエンジニア",
+		"tags": ["Android"],
+		"photoUrl": "",
+		"bio": "",
+		"shortBio": "逆転裁判に憧れ、韓国から来ました！\n現在クルーズ株式会社でAndroidエンジニアをしております。",
+		"country": "Korea",
+		"socials": null,
 		"featured": false
 	}]
 }
