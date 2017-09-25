@@ -185,21 +185,21 @@
       {
         "endTime": "12:10",
         "sessions": [
-          [104], [991], [126], [101], [119], [120]
+          [104], [137], [126], [101], [119], [120]
         ],
         "startTime": "11:30"
       },
       {
         "endTime": "14:00",
         "sessions": [
-          [125], [128], [122], [993], [102], [995]
+          [125], [128], [122], [133], [102], [995]
         ],
         "startTime": "13:20"
       },
       {
         "endTime": "14:50",
         "sessions": [
-          [999], [106], [121], [113], [994], [995]
+          [124], [106], [121], [113], [994], [995]
         ],
         "startTime": "14:10"
       },
@@ -213,7 +213,7 @@
       {
         "endTime": "16:30",
         "sessions": [
-          [124], [991], [105], [111], [117], [995]
+          [136], [991], [105], [111], [117], [995]
         ],
         "startTime": "15:50"
       },
@@ -425,12 +425,12 @@
     "109": {
       "id": 109,
       "title": "droid girlsによるAndroidセッション",
-      "description": "このセッションは4人のdroid girlsによるセッションです。体育会系女Androidエンジニアが会社の面接を突破する技術, 逆転裁判を愛して止まないKorean droid girlがSHOPLISTのアプリを改善しちゃった話",
+      "description": "このセッションは4人のdroid girlsによるセッションです。体育会系女Androidエンジニアが会社の面接を突破する技術, 逆転裁判を愛して止まないKorean droid girlがSHOPLISTのアプリを改善しちゃった話, How to convert java to kotlin at タップル誕生♡",
       "tags": ["Android", "droid girls", "GTUG Girls"],
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
-      "speakers": [109, 131],
+      "speakers": [109, 131, 135],
       "complecity": "Beginner"
     },
     "110": {
@@ -630,6 +630,61 @@
       "presentation": "",
       "speakers": [130, 129],
       "complecity": "Beginner"
+    },
+    "132": {
+      "id": 132,
+      "title": "コマンドを使って Android開発を1upさせたい",
+      "description": "普段Androidの開発にコマンドを使っていますか？私は使っていませんでした。黒い画面が苦手な私ですが、取り入れてみた話をゆるめにしたいと思います。",
+      "tags": ["Android"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [132],
+      "complecity": "Beginner"
+    },
+    "133": {
+      "id": 133,
+      "title": "ナビゲーションのUIベストプラクティス",
+      "description": "モバイルアプリやサイトでコンテンツ間を移動する上で欠かせないナビゲーション。ツールバー、ボトムナビゲーション、ドロワー等様々なナビゲーションの為の要素がデザインをする上では整理して利用する必要があります。本セッションではこのナビゲーションのベストプラクティスを共有します。",
+      "tags": ["Android", "Design"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [133],
+      "complecity": "Beginner"
+    },
+    "135": {
+      "id": 135,
+      "title": "How to convert java to kotlin at タップル誕生♡",
+      "description": "既存プロジェクトのkotlin化を進める上で気をつけてるポイントをお話します",
+      "tags": ["Android", " kotlin"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [135],
+      "complecity": "Beginner"
+    },
+    "136": {
+      "id": 136,
+      "title": "いまさら聞けないPWA講座",
+      "description": "近頃ウェブフロントエンド界隈ではプログレッシブウェブアプリ(PWA)が流行ってきています。iOS Safariの実装が開始されたことで弾みも付き、今後より一層広がっていく可能性もあります。そんなPWAについて、フロントエンドディベロッパー以外の人にも分かるように、これがどんな未来を実現してくれるのか説明します。",
+      "tags": ["Web", "PWA"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [136],
+      "complecity": "Beginner"
+    },
+    "137": {
+      "id": 137,
+      "title": "Kotlin導入どうですか？",
+      "description": "Shibuya.apkの運営にご協力頂いている各社の皆様に、それぞれのKotlin導入状況についてお話いただきます。\nKotlinの導入は実際どこまで進んでいるのか？\nKotlinを導入するにはどこから始めれば良いか？\nといったKotlin導入への参考になるような話をしたいと思います。",
+      "tags": ["Android", "Kotlin"],
+      "slideUrl": "",
+      "language": "Japanese",
+      "presentation": "",
+      "speakers": [137],
+      "complecity": "Intermediate"
     }
   },
   "speakers": [{
@@ -919,7 +974,7 @@
     "companyLogoUrl": "",
     "title": "マネージャー",
     "tags": ["BigQuery", "GoogleAnalytics", "Google Cloud Platform"],
-    "photoUrl": "",
+    "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/satoru_nakamura.jpg",
     "bio": "",
     "shortBio": "",
     "country": "Japan",
@@ -1309,5 +1364,110 @@
 		"country": "Korea",
 		"socials": null,
 		"featured": false
-  }]
+  }, {
+		"id": 132,
+		"name": "Yu Joi",
+		"company": "",
+		"companyLogoUrl": "",
+		"title": "",
+		"tags": ["Android"],
+		"photoUrl": "",
+		"bio": "",
+		"shortBio": "",
+		"country": "",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/joooi13",
+			"name": "Twitter"
+		}],
+		"featured": false
+	}, {
+		"id": 133,
+		"name": "鈴木 拓生",
+		"company": "Google",
+		"companyLogoUrl": "https://developers.google.com/_static/images/redesign-14/lockup-color-2x.png",
+		"title": "Developer Relations Japan Lead",
+		"tags": ["Design", "Android"],
+		"photoUrl": "https://pbs.twimg.com/profile_images/378800000672537135/2f5a340d5df2fb9b3baed2b1e22ea660_400x400.jpeg",
+		"bio": "メディア系企業にて、社外のデベロッパーと恊働するプロジェクト等を担当し、 2012 年からはシリコンバレーのスタートアップやインキュベーションに対しての投資も担当。 現在は Google の Developer Relationsチームで主にDesign SprintやMaterial Design周りのコミュニケーションを担当し、デベロッパーやスタートアップのエコシステムの向上を支援している。",
+		"shortBio": "Google の Developer Relationsチームで主にDesign SprintやMaterial Design周りのコミュニケーションを担当し、デベロッパーやスタートアップのエコシステムの向上を支援している。",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/taquo",
+			"name": "Twitter"
+		}],
+		"featured": false
+	}, {
+		"id": 135,
+		"name": "並木弥生",
+		"company": "株式会社サイバーエージェント",
+		"companyLogoUrl": "",
+		"title": "",
+		"tags": ["Android"],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/namiki.jpeg",
+		"bio": "",
+		"shortBio": "",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/nyanyoni",
+			"name": "Twitter"
+		}, {
+			"icon": "facebook",
+			"link": "https://www.facebook.com/nyanyoni",
+			"name": "Facebook"
+		}],
+		"featured": false
+	}, {
+		"id": 136,
+		"name": "えーじ",
+		"company": "Google",
+		"companyLogoUrl": "",
+		"title": "Developer Advocate",
+		"tags": ["Web", "PWA", ""],
+		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/eiji.jpg",
+		"bio": "Google デベロッパー アドボケートとして Open Web に携わり、現在は ID、ペイメントにかかるユーザーエクスペリエンスの向上に焦点を置いている。入社前は OpenSocial、OpenID、OAuth などのソーシャルウェブ テクノロジーを専門とし、ポータルサイトのソーシャル化プロジェクトを推進・実現した。",
+		"shortBio": "Google の Open Web 担当デベロッパー アドボケート。",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/agektmr",
+			"name": "Twitter"
+		}, {
+			"icon": "gplus",
+			"link": "https://plus.google.com/u/0/+agektmr",
+			"name": "Google"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/agektmr",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}, {
+		"id": 137,
+		"name": "satorufujiwara",
+		"company": "CyberAgent, Inc.",
+		"companyLogoUrl": "",
+		"title": "Android エンジニア",
+		"tags": ["Android", "Kotlin"],
+		"photoUrl": "https://avatars0.githubusercontent.com/u/5965110",
+		"bio": "株式会社サイバーエージェントのAndroidエンジニア。Shibuya.apkのオーガナイザーの1人。\nKotlinで開発してます。人事もやってます。",
+		"shortBio": "Androidエンジニア。Shibuya.apkのオーガナイザーの1人。Kotlinで開発してます。",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/satorufujiwara",
+			"name": "Twitter"
+		}, {
+			"icon": "facebook",
+			"link": "https://www.facebook.com/satorufujiwara",
+			"name": "Facebook"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/satorufujiwara",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}]
 }
