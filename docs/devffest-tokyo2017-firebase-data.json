@@ -178,7 +178,7 @@
       {
         "endTime": "11:20",
         "sessions": [
-          [129], [115], [108], [112], [109], [110]
+          [130], [115], [108], [112], [109], [110]
         ],
         "startTime": "10:40"
       },
@@ -620,17 +620,6 @@
       "speakers": [128],
       "complecity": "Beginner"
     },
-    "129": {
-      "id": 129,
-      "title": "TBD",
-      "description": "",
-      "tags": ["Android"],
-      "slideUrl": "",
-      "language": "Japanese",
-      "presentation": "",
-      "speakers": [129],
-      "complecity": "Beginner"
-    },
     "130": {
       "id": 130,
       "title": "Android1.5~8.0 Walkthrough",
@@ -639,7 +628,7 @@
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
-      "speakers": [130],
+      "speakers": [130, 129],
       "complecity": "Beginner"
     }
   },
