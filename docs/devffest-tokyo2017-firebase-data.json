@@ -15,16 +15,16 @@
         "url": "https://www.mercari.com/jp/",
         "width": 2000
       }],
-      "title": "託児所スポンサー"
+      "title": ""
     },
     {
       "logos": [{
         "logoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/applet.png",
         "name": "株式会社アプレット",
         "url": "http://www.applet-inc.com/",
-        "width": 2000
+        "width": 1996
       }],
-      "title": "ネットワークスポンサー"
+      "title": ""
     }
   ],
   "team" : [ {
