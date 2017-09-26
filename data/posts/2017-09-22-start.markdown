@@ -12,7 +12,7 @@ DevFest は、Google Developer Group (GDG) コミュニティによって世界�
 
 * 日 時：2017年10月9日 10:00〜17:00 (9:30開場)（仮）
 * 募集人数：1000人
-* 対 象 者：Android, Web, GCP, ML, Firebase, Golang, などなどが好きなエンジニアおよび学生
+* 対 象 者：Android, Web, GCP, ML, Firebase, Go, などなどが好きなエンジニアおよび学生
 * 会 場：国際交流館 プラザ平成（東京都江東区青海2-2-1）
 * 主 催：GDG Tokyo, Shibuya.apk, DroidKaigi, 日本Androidの会, golang.tokyo, html5j, GTUG Girls, Women Who Go, XR 女子部, Droid Girls, Geek Women Japan, GCPUG, TFUG, TangoWG 
 * 協 力：Google
