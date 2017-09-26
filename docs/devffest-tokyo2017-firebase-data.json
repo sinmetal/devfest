@@ -171,6 +171,19 @@
         "name" : "Slack"
       } ],
       "title" : "Go言語を学ぶ女性コミュニティです。"
+    }, {
+      "name" : "html5j",
+      "photoUrl" : "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/logo-html5j-vertical.svg",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://html5j.org/",
+        "name" : "Web Site"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/html5j",
+        "name" : "Twitter"
+      } ],
+      "title" : "html5jは、HTML5などのWebプラットフォーム技術を使った「ものづくり」に関わるすべての人々を応援する、非営利・中立のコミュニティです。"
     } ],
     "title" : "参加コミュニティ"
   } ],
