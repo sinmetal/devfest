@@ -507,7 +507,7 @@
       "slideUrl": "",
       "language": "Japanese",
       "presentation": "",
-      "speakers": [116, 105, 118],
+      "speakers": [116, 105, 118, 138],
       "complecity": "Intermediate"
     },
     "117": {
@@ -1469,5 +1469,26 @@
 			"name": "GitHub"
 		}],
 		"featured": false
-	}]
+	}, {
+		"id": 138,
+		"name": "zchee",
+		"company": "メルカリ・ソウゾウ",
+		"companyLogoUrl": "",
+		"title": "",
+		"tags": ["Go", "Google Cloud Platform"],
+		"photoUrl": "https://avatars3.githubusercontent.com/u/6366270?v=4&s=200",
+		"bio": "ソウゾウ ソリューションチーム。\nGoの静的解析や、ハイパーバイザーなどに興味がある。",
+		"shortBio": "ソウゾウ ソリューションチーム。Goの静的解析や、ハイパーバイザーなどに興味がある。",
+		"country": "Japan",
+		"socials": [{
+			"icon": "twitter",
+			"link": "https://twitter.com/zchee",
+			"name": "Twitter"
+		}, {
+			"icon": "github",
+			"link": "https://github.com/zchee",
+			"name": "GitHub"
+		}],
+		"featured": false
+	}]]
 }
