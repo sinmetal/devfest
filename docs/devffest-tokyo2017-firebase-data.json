@@ -770,12 +770,16 @@
     "company": "",
     "companyLogoUrl": "",
     "title": "Cloud Solutions Architect",
-    "tags": ["Google Cloud Platform", "Machine Learning"],
+    "tags": ["Google Cloud Platform", "Machine Learning", "TensorFlow"],
     "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgAAAAAJDRkODMxNzQwLTdkNjQtNGU5OC04ODJjLWNkM2VkNzEwN2I2Mg.jpg",
     "bio": "APACでソリューション展開したり機械学習やってます。\n最近は機械学習とGCPを広めるためにGCP\u0026ML初心者向けの本の執筆も。",
     "shortBio": "APACでソリューション展開したり機械学習やってます。",
-    "country": "",
+    "country": "Japan",
     "socials": [{
+      "icon": "twitter",
+      "link": "https://twitter.com/hayatoy82",
+      "name": "Twitter"
+    }, {
       "icon": "linkedin",
       "link": "https://www.linkedin.com/in/hayato-yoshikawa-12212671/",
       "name": "LinkedIn"
