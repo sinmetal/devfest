@@ -7,5 +7,14 @@
     "secondaryColor": "#455a64",
     "image": "/images/posts/summary.jpg",
     "brief": "今年もDevFestの季節がやってきました！Android, VR, AR, Go, Web, Cloud, Firebase, 機械学習, TensorFlow, コミュニティ活動に興味のあるみんな集まれ！"
+  },
+  {
+    "id": "nursery",
+    "title": "託児所の利用についてのご案内",
+    "posted": "2017-09-28",
+    "primaryColor": "#5a7785",
+    "secondaryColor": "#455a64",
+    "image": "/images/backgrounds/coffee-break.jpg",
+    "brief": "かねてよりお知らせしておりました託児所について申込手順をご連絡します。"
   }
 ]
