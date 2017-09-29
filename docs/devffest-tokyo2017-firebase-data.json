@@ -866,9 +866,9 @@
     "company": "フリーランス",
     "companyLogoUrl": "",
     "title": "スマホアプリクリエイター",
-    "tags": ["droid girls", " GTUG Girls", " Android"],
+    "tags": ["Android"],
     "photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/nagaoyuriko.jpg",
-    "bio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。テーマパークダンサーを目指すも10年連続オーディションに落選、女優を目指しCM・映画に出演するも鳴かず飛ばずで三十路を迎える。崖っぷちに立たされ、人手不足のIT業界に参戦。一路エンジニアを目指して奮闘、ボロボロになりながら今に至る。",
+    "bio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。テーマパークダンサーを目指すも10年連続オーディションに落選、女優を目指しCM・映画に出演するも鳴かず飛ばずで三十路を迎える。崖っぷちに立たされ、人手不足のIT業界に参戦。スマホアプリとWEBサイトを作りまくっている。",
     "shortBio": "元食えないダンサー、元超売れない女優、現フリーランスエンジニア。",
     "country": "Japan",
     "socials": [{
@@ -1380,15 +1380,19 @@
 	}, {
 		"id": 131,
 		"name": "イ ボギョン",
-		"company": "クルーズ株式会社",
-		"companyLogoUrl": "",
+		"company": "Crooz株式会社",
+		"companyLogoUrl": "http://crooz.co.jp/",
 		"title": "Androidエンジニア",
 		"tags": ["Android"],
-		"photoUrl": "",
-		"bio": "",
+		"photoUrl": "https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/12208463_419006278291927_3153725715481284968_n.jpg?oh=b9723d16df811fabec98df57eb32c697&oe=5A552141",
+		"bio": "Crooz株式会社でSHOPLISTのAndroidアプリを開発しております。日本に来てから2年半ぐらいで、日本生活にも慣れつつあります。今回初登壇で、日々Androidの修行中です！よろしくお願いいたします。",
 		"shortBio": "逆転裁判に憧れ、韓国から来ました！\n現在クルーズ株式会社でAndroidエンジニアをしております。",
 		"country": "Korea",
-		"socials": null,
+		"socials": [{
+      "icon": "facebook",
+      "link": "https://www.facebook.com/leebogyeong93",
+      "name": "Facebook"
+    }],
 		"featured": false
   }, {
 		"id": 132,
@@ -1426,14 +1430,14 @@
 		"featured": false
 	}, {
 		"id": 135,
-		"name": "並木弥生",
-		"company": "株式会社サイバーエージェント",
+		"name": "namiki",
+		"company": "CyberAgent, Inc.",
 		"companyLogoUrl": "",
-		"title": "",
+		"title": "Androidエンジニア",
 		"tags": ["Android"],
 		"photoUrl": "https://storage.googleapis.com/devfest-tokyo-2017.appspot.com/namiki.jpeg",
-		"bio": "",
-		"shortBio": "",
+		"bio": "タップル誕生 Androidエンジニア。kotlin移行中。droid girlsのstaffをしてます。",
+		"shortBio": "タップル誕生 Androidエンジニア。より良いアプリ・サービスを目指して奮闘中。",
 		"country": "Japan",
 		"socials": [{
 			"icon": "twitter",
