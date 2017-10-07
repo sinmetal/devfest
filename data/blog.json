@@ -16,5 +16,14 @@
     "secondaryColor": "#455a64",
     "image": "/images/backgrounds/coffee-break.jpg",
     "brief": "かねてよりお知らせしておりました託児所について申込手順をご連絡します。"
+  },
+  {
+    "id": "android-things",
+    "title": "「Android Things であそぼう」ハンズオンについて",
+    "posted": "2017-10-07",
+    "primaryColor": "#5a7785",
+    "secondaryColor": "#455a64",
+    "image": "/images/posts/summary.jpg",
+    "brief": "Android Things であそぼう」ハンズオンに参加する場合の事前準備と当日の流れを説明します。"
   }
 ]
